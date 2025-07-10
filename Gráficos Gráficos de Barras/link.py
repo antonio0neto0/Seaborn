@@ -1,0 +1,2 @@
+# Selecionado de Cor em HEX - https://www.google.com/search?q=color+hex+picker&oq=color+hex+picker&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABNIBCDM2ODVqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8
+# Paleta de cores seaborn - https://r02b.github.io/seaborn_palettes/

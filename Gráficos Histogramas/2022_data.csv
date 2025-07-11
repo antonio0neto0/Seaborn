@@ -1,0 +1,245 @@
+id_pedido,id_cliente,data_pedido,produto,categoria,quantidade,preco_unitario,metodo_pagamento,custo_envio,status_pedido,tempo_entrega_dias
+2,4,2022-05-13,Fones de Ouvido,Eletrônicos,9,21.11,Pix,34.69,Processando,10.0
+7,45,2022-10-22,Jogo de Tabuleiro,Acessórios,2,883.5,Dinheiro,6.57,Enviado,8.0
+11,37,2022-10-07,Sapatos,Vestuário,7,378.97,Dinheiro,34.64,Processando,1.0
+12,60,2022-05-21,Bicicleta,Livros,4,214.63,Cartão de Débito,41.32,Cancelado,8.0
+14,7,2022-05-14,Guitarra,Vestuário,9,600.5,Cartão de Débito,33.12,Entregue,6.0
+15,34,2022-09-11,Laptop,Eletrônicos,2,233.07,Dinheiro,30.06,Cancelado,1.0
+18,27,2022-07-02,Relógio Inteligente,Vestuário,10,817.7,Cartão de Débito,,Entregue,
+19,40,2022-10-24,Tablet,Livros,6,915.84,Cartão de Débito,12.89,Cancelado,6.0
+21,7,2022-12-29,Livro,Lazer,6,35.19,Cartão de Crédito,23.49,Processando,9.0
+24,17,2022-02-16,Livro,Lazer,9,696.91,Pix,21.15,Enviado,6.0
+25,78,2022-08-01,Óculos de Sol,Eletrônicos,10,976.36,Pix,16.19,Processando,7.0
+26,60,2022-07-27,Chapéu,Livros,3,852.45,Cartão de Débito,32.12,Entregue,5.0
+27,49,2022-07-12,Camiseta,Eletrônicos,7,210.11,Cartão de Débito,,Enviado,
+30,94,2022-06-20,Sapatos,Vestuário,5,678.19,Pix,45.47,Processando,4.0
+31,47,2022-05-04,Laptop,Eletrônicos,8,685.69,Boleto,41.81,Enviado,8.0
+32,10,2022-10-16,Vestido,Vestuário,1,708.32,Boleto,35.03,Entregue,4.0
+34,84,2022-09-09,Laptop,Vestuário,2,602.77,Cartão de Débito,12.94,Cancelado,4.0
+35,90,2022-04-04,Livro,Livros,8,826.29,Dinheiro,32.09,Cancelado,3.0
+37,32,2022-11-05,Smartphone,Lazer,2,754.33,Dinheiro,19.33,Enviado,1.0
+38,19,2022-11-02,Guitarra,Lazer,4,529.17,Dinheiro,37.62,Enviado,5.0
+43,20,2022-01-25,Fones de Ouvido,Eletrônicos,6,118.05,Pix,14.62,Enviado,10.0
+44,47,2022-04-22,Laptop,Vestuário,7,578.26,Cartão de Débito,12.59,Cancelado,8.0
+45,71,2022-12-02,Sapatos,Acessórios,3,86.69,Cartão de Crédito,,Cancelado,
+46,39,2022-06-15,Relógio Inteligente,Vestuário,1,707.9,Cartão de Crédito,47.76,Entregue,14.0
+50,22,2022-01-30,Jogo de Tabuleiro,Acessórios,10,821.59,Cartão de Débito,26.11,Processando,8.0
+52,69,2022-01-20,Bicicleta,Vestuário,4,708.68,Cartão de Crédito,26.25,Entregue,7.0
+54,85,2022-03-30,Laptop,Acessórios,4,256.18,Cartão de Crédito,,Entregue,
+57,60,2022-04-23,Laptop,Eletrônicos,4,442.79,Pix,33.04,Cancelado,1.0
+60,71,2022-07-04,Smartphone,Vestuário,5,91.81,Boleto,15.62,Entregue,6.0
+61,39,2022-06-25,Mochila,Livros,6,86.3,Dinheiro,33.98,Entregue,13.0
+62,93,2022-02-13,Jogo de Vídeo,Vestuário,2,290.08,Dinheiro,23.36,Processando,5.0
+63,26,2022-02-20,Relógio Inteligente,Eletrônicos,10,512.61,Cartão de Débito,,Entregue,
+64,10,2022-10-13,Smartphone,Eletrônicos,9,498.96,Cartão de Crédito,21.08,Enviado,3.0
+65,65,2022-12-28,Calça Jeans,Livros,9,878.68,Pix,34.76,Enviado,1.0
+66,94,2022-07-16,Relógio Inteligente,Vestuário,4,656.76,Pix,38.35,Entregue,10.0
+68,13,2022-01-14,Vestido,Eletrônicos,10,656.96,Dinheiro,36.93,Enviado,5.0
+72,44,2022-04-21,Livro,Vestuário,2,812.11,Dinheiro,,Processando,
+73,90,2022-10-17,Camiseta,Eletrônicos,3,285.34,Pix,24.01,Processando,9.0
+74,30,2022-12-23,Calça Jeans,Livros,1,500.24,Boleto,25.06,Entregue,7.0
+77,28,2022-07-03,Sapatos,Lazer,10,642.2,Boleto,19.2,Cancelado,10.0
+78,39,2022-05-13,Relógio Inteligente,Acessórios,7,64.22,Cartão de Crédito,44.62,Entregue,1.0
+80,24,2022-03-11,Mochila,Livros,1,967.1,Cartão de Débito,32.18,Processando,3.0
+81,79,2022-07-05,Calça Jeans,Lazer,4,66.39,Pix,,Enviado,
+83,49,2022-08-15,Monitor de Atividade,Acessórios,7,198.05,Dinheiro,39.95,Entregue,5.0
+84,24,2022-03-25,Laptop,Lazer,6,388.42,Cartão de Crédito,10.9,Entregue,1.0
+88,43,2022-05-19,Chapéu,Livros,1,547.44,Dinheiro,6.65,Cancelado,1.0
+89,53,2022-07-01,Bicicleta,Livros,8,915.26,Boleto,40.61,Enviado,12.0
+90,36,2022-03-19,Chapéu,Livros,9,469.17,Pix,,Cancelado,
+91,95,2022-06-16,Calça Jeans,Vestuário,4,566.57,Dinheiro,29.89,Processando,2.0
+92,79,2022-10-03,Bicicleta,Livros,5,708.61,Cartão de Crédito,31.25,Enviado,8.0
+93,90,2022-01-29,Vestido,Livros,8,443.04,Dinheiro,46.0,Processando,10.0
+94,75,2022-02-06,Relógio Inteligente,Livros,9,887.78,Dinheiro,38.05,Cancelado,11.0
+98,25,2022-07-11,Monitor de Atividade,Eletrônicos,7,127.12,Boleto,44.33,Cancelado,7.0
+99,65,2022-06-27,Monitor de Atividade,Eletrônicos,5,246.7,Boleto,,Cancelado,
+104,79,2022-08-31,Mochila,Acessórios,10,999.19,Cartão de Crédito,11.8,Processando,6.0
+106,45,2022-11-26,Fones de Ouvido,Lazer,9,274.35,Cartão de Débito,23.06,Processando,13.0
+108,15,2022-12-14,Livro,Livros,9,438.83,Boleto,,Cancelado,
+109,88,2022-09-26,Sapatos,Livros,3,989.35,Cartão de Crédito,16.9,Cancelado,13.0
+110,44,2022-02-01,Vestido,Vestuário,4,965.88,Pix,32.76,Cancelado,13.0
+111,48,2022-02-13,Smartphone,Eletrônicos,10,349.3,Cartão de Débito,15.29,Processando,11.0
+112,75,2022-12-05,Jogo de Tabuleiro,Lazer,8,286.68,Cartão de Débito,49.73,Enviado,5.0
+115,57,2022-12-07,Chapéu,Acessórios,10,270.15,Boleto,47.23,Cancelado,14.0
+117,96,2022-09-01,Fones de Ouvido,Lazer,4,682.15,Dinheiro,,Processando,
+120,67,2022-07-12,Sapatos,Livros,3,423.43,Boleto,18.49,Cancelado,14.0
+124,37,2022-01-27,Óculos de Sol,Vestuário,5,954.37,Boleto,49.0,Entregue,3.0
+129,56,2022-06-30,Câmera,Lazer,2,90.51,Dinheiro,23.07,Processando,11.0
+131,100,2022-06-01,Livro,Livros,5,537.07,Boleto,22.57,Cancelado,14.0
+132,50,2022-03-23,Relógio Inteligente,Lazer,1,750.55,Cartão de Crédito,35.51,Entregue,8.0
+133,29,2022-10-22,Óculos de Sol,Acessórios,10,477.94,Dinheiro,37.75,Processando,12.0
+140,21,2022-06-18,Guitarra,Acessórios,6,673.46,Pix,36.85,Cancelado,13.0
+146,55,2022-12-05,Relógio Inteligente,Acessórios,1,871.23,Dinheiro,15.13,Enviado,10.0
+147,8,2022-01-28,Vestido,Lazer,5,703.41,Cartão de Débito,26.48,Entregue,13.0
+148,38,2022-03-24,Bicicleta,Eletrônicos,2,170.19,Cartão de Crédito,49.7,Enviado,13.0
+152,91,2022-12-15,Camiseta,Livros,5,463.62,Dinheiro,20.58,Cancelado,12.0
+153,69,2022-02-10,Relógio,Eletrônicos,4,28.83,Cartão de Débito,,Processando,
+156,40,2022-02-14,Vestido,Lazer,5,656.05,Pix,18.27,Enviado,3.0
+157,6,2022-10-05,Monitor de Atividade,Eletrônicos,4,636.11,Pix,25.75,Cancelado,9.0
+159,41,2022-07-27,Laptop,Lazer,7,29.11,Cartão de Débito,30.95,Processando,4.0
+160,21,2022-06-13,Monitor de Atividade,Lazer,9,944.15,Cartão de Débito,19.36,Entregue,13.0
+161,50,2022-03-19,Sapatos,Livros,6,732.05,Boleto,46.34,Enviado,4.0
+163,14,2022-07-29,Óculos de Sol,Acessórios,7,628.1,Cartão de Débito,32.85,Entregue,8.0
+168,79,2022-07-01,Bicicleta,Vestuário,3,322.57,Cartão de Crédito,32.5,Cancelado,4.0
+171,71,2022-07-23,Câmera,Livros,5,616.1,Pix,,Entregue,
+172,18,2022-07-21,Livro,Vestuário,6,332.08,Cartão de Crédito,28.2,Processando,14.0
+175,33,2022-07-21,Calça Jeans,Lazer,8,262.64,Cartão de Débito,14.99,Cancelado,11.0
+177,3,2022-08-15,Bicicleta,Lazer,5,88.57,Pix,26.75,Processando,9.0
+180,68,2022-07-01,Monitor de Atividade,Acessórios,5,70.85,Dinheiro,,Entregue,
+182,20,2022-10-29,Laptop,Livros,5,70.42,Cartão de Crédito,5.02,Entregue,6.0
+184,40,2022-06-25,Óculos de Sol,Vestuário,6,510.51,Pix,35.78,Enviado,5.0
+185,65,2022-10-15,Sapatos,Acessórios,9,161.26,Pix,40.34,Cancelado,8.0
+186,22,2022-12-28,Câmera,Lazer,7,860.57,Cartão de Débito,21.06,Cancelado,4.0
+189,65,2022-12-11,Guitarra,Eletrônicos,1,618.79,Boleto,,Processando,
+190,54,2022-10-17,Jogo de Tabuleiro,Acessórios,6,953.94,Cartão de Crédito,35.34,Enviado,9.0
+191,4,2022-05-12,Óculos de Sol,Acessórios,6,662.06,Boleto,14.6,Cancelado,8.0
+192,50,2022-05-29,Monitor de Atividade,Vestuário,8,530.85,Pix,14.5,Entregue,14.0
+194,24,2022-07-24,Tablet,Lazer,4,564.93,Cartão de Crédito,10.54,Entregue,4.0
+195,55,2022-03-19,Livro,Acessórios,8,354.04,Cartão de Débito,45.93,Enviado,13.0
+197,40,2022-08-23,Câmera,Acessórios,3,641.51,Cartão de Débito,33.44,Processando,12.0
+200,47,2022-04-10,Relógio,Lazer,6,761.17,Cartão de Crédito,28.89,Enviado,13.0
+202,70,2022-10-25,Fones de Ouvido,Acessórios,8,879.59,Pix,5.59,Enviado,14.0
+205,43,2022-06-21,Chapéu,Lazer,9,896.94,Boleto,26.41,Enviado,7.0
+206,80,2022-03-26,Óculos de Sol,Eletrônicos,3,209.97,Cartão de Débito,24.52,Processando,1.0
+210,60,2022-11-21,Vestido,Lazer,6,216.53,Dinheiro,27.79,Cancelado,13.0
+211,45,2022-04-03,Livro,Acessórios,9,290.78,Cartão de Crédito,11.48,Enviado,7.0
+212,19,2022-10-12,Bicicleta,Vestuário,6,832.27,Dinheiro,14.06,Processando,8.0
+213,35,2022-09-05,Chapéu,Eletrônicos,6,909.25,Dinheiro,42.28,Processando,5.0
+216,46,2022-05-21,Vestido,Vestuário,6,170.54,Cartão de Crédito,,Enviado,
+218,71,2022-02-21,Tablet,Livros,10,587.74,Dinheiro,20.35,Processando,2.0
+220,81,2022-04-05,Laptop,Acessórios,6,525.47,Cartão de Débito,6.41,Cancelado,12.0
+221,23,2022-06-01,Calça Jeans,Livros,3,942.97,Pix,24.26,Processando,4.0
+223,8,2022-10-21,Jogo de Vídeo,Eletrônicos,1,187.88,Pix,41.34,Entregue,13.0
+224,50,2022-03-15,Vestido,Vestuário,4,662.37,Dinheiro,46.97,Processando,13.0
+229,38,2022-11-14,Vestido,Eletrônicos,6,348.65,Dinheiro,22.32,Processando,3.0
+230,35,2022-05-07,Monitor de Atividade,Eletrônicos,9,534.6,Dinheiro,32.53,Enviado,12.0
+231,1,2022-05-30,Fones de Ouvido,Livros,5,848.34,Cartão de Débito,17.22,Processando,1.0
+234,22,2022-07-03,Guitarra,Vestuário,3,119.13,Cartão de Crédito,,Cancelado,
+235,60,2022-08-14,Calça Jeans,Vestuário,10,250.55,Boleto,44.97,Enviado,2.0
+237,25,2022-07-11,Vestido,Vestuário,6,358.2,Cartão de Crédito,47.22,Cancelado,1.0
+240,4,2022-06-24,Calça Jeans,Livros,6,714.37,Boleto,39.72,Processando,5.0
+243,85,2022-08-01,Calça Jeans,Lazer,10,527.53,Boleto,,Cancelado,
+244,79,2022-06-17,Câmera,Lazer,8,850.5,Boleto,35.67,Cancelado,10.0
+247,31,2022-05-02,Relógio Inteligente,Eletrônicos,5,349.32,Cartão de Débito,49.41,Cancelado,6.0
+250,19,2022-02-07,Chapéu,Acessórios,9,51.84,Pix,43.58,Processando,5.0
+251,87,2022-08-10,Tablet,Lazer,5,232.57,Pix,6.63,Entregue,7.0
+253,56,2022-04-06,Relógio,Acessórios,3,83.47,Boleto,10.56,Enviado,1.0
+254,33,2022-12-24,Guitarra,Acessórios,1,861.89,Boleto,25.39,Processando,5.0
+255,91,2022-12-19,Camiseta,Acessórios,2,250.32,Cartão de Débito,38.52,Entregue,13.0
+259,8,2022-04-14,Calça Jeans,Vestuário,8,354.79,Pix,11.7,Processando,9.0
+262,71,2022-09-01,Óculos de Sol,Lazer,10,823.53,Boleto,45.27,Cancelado,14.0
+263,51,2022-10-26,Calça Jeans,Lazer,7,773.43,Boleto,40.29,Processando,7.0
+264,72,2022-03-03,Camiseta,Livros,1,50.14,Cartão de Débito,12.36,Processando,2.0
+268,41,2022-09-16,Guitarra,Lazer,10,590.17,Cartão de Débito,23.33,Entregue,6.0
+269,69,2022-03-26,Mochila,Eletrônicos,6,910.44,Boleto,41.67,Enviado,7.0
+272,38,2022-05-18,Guitarra,Livros,6,30.89,Cartão de Débito,10.15,Cancelado,10.0
+273,49,2022-09-12,Fones de Ouvido,Acessórios,4,902.26,Pix,26.6,Processando,10.0
+274,28,2022-05-20,Chapéu,Lazer,3,496.91,Dinheiro,44.75,Cancelado,9.0
+275,60,2022-09-06,Relógio,Acessórios,7,882.49,Cartão de Crédito,24.91,Cancelado,9.0
+277,78,2022-12-01,Jogo de Tabuleiro,Lazer,4,559.08,Boleto,45.32,Cancelado,11.0
+279,95,2022-05-27,Livro,Lazer,8,416.62,Dinheiro,,Enviado,
+280,65,2022-04-16,Jogo de Vídeo,Lazer,8,250.68,Boleto,44.9,Cancelado,14.0
+281,31,2022-02-20,Smartphone,Livros,4,896.16,Pix,5.47,Cancelado,4.0
+282,46,2022-12-09,Fones de Ouvido,Eletrônicos,7,963.36,Pix,34.22,Cancelado,12.0
+285,57,2022-03-16,Sapatos,Eletrônicos,9,731.01,Cartão de Débito,41.86,Entregue,7.0
+287,79,2022-12-19,Óculos de Sol,Lazer,8,966.43,Cartão de Crédito,22.38,Enviado,9.0
+289,29,2022-07-24,Jogo de Vídeo,Vestuário,9,404.54,Pix,6.53,Enviado,6.0
+293,39,2022-08-31,Câmera,Lazer,8,50.4,Dinheiro,19.21,Cancelado,4.0
+295,86,2022-04-26,Vestido,Livros,3,297.4,Boleto,30.19,Processando,2.0
+297,75,2022-04-03,Camiseta,Lazer,8,837.71,Cartão de Débito,,Enviado,
+302,7,2022-04-24,Laptop,Eletrônicos,4,332.71,Pix,45.59,Processando,8.0
+305,35,2022-03-15,Tablet,Eletrônicos,3,509.6,Pix,8.96,Processando,1.0
+309,14,2022-08-30,Guitarra,Livros,2,286.13,Cartão de Crédito,21.93,Enviado,3.0
+310,44,2022-08-09,Laptop,Livros,3,640.62,Cartão de Crédito,46.85,Enviado,8.0
+313,42,2022-08-28,Fones de Ouvido,Eletrônicos,5,547.96,Dinheiro,27.91,Entregue,7.0
+314,30,2022-10-21,Óculos de Sol,Livros,3,43.79,Dinheiro,19.83,Entregue,5.0
+315,20,2022-06-21,Jogo de Vídeo,Vestuário,4,850.7,Dinheiro,,Processando,
+317,32,2022-01-17,Smartphone,Eletrônicos,8,761.54,Cartão de Débito,14.89,Processando,2.0
+318,56,2022-03-23,Guitarra,Lazer,1,711.98,Pix,27.26,Processando,5.0
+322,100,2022-12-22,Calça Jeans,Livros,3,61.62,Cartão de Crédito,26.27,Entregue,9.0
+323,12,2022-11-20,Jogo de Tabuleiro,Eletrônicos,10,941.84,Dinheiro,34.49,Processando,1.0
+325,85,2022-04-10,Laptop,Vestuário,3,18.36,Boleto,12.07,Processando,9.0
+326,3,2022-10-17,Mochila,Eletrônicos,7,556.08,Cartão de Crédito,33.57,Processando,13.0
+329,22,2022-03-05,Jogo de Vídeo,Livros,1,453.89,Dinheiro,6.69,Processando,9.0
+331,45,2022-05-31,Mochila,Vestuário,8,186.04,Cartão de Crédito,33.21,Cancelado,8.0
+332,64,2022-04-19,Jogo de Tabuleiro,Vestuário,1,416.77,Cartão de Crédito,23.03,Processando,2.0
+334,13,2022-12-27,Relógio,Acessórios,2,312.27,Cartão de Crédito,17.95,Enviado,1.0
+336,2,2022-02-26,Smartphone,Lazer,10,558.1,Boleto,47.45,Enviado,11.0
+337,75,2022-11-16,Jogo de Vídeo,Acessórios,2,79.98,Cartão de Débito,9.43,Entregue,13.0
+338,2,2022-01-28,Chapéu,Eletrônicos,8,962.72,Pix,46.18,Entregue,4.0
+339,58,2022-12-29,Câmera,Livros,4,286.05,Cartão de Débito,18.88,Processando,10.0
+348,29,2022-09-17,Guitarra,Acessórios,7,179.72,Cartão de Débito,38.16,Cancelado,7.0
+350,43,2022-05-28,Tablet,Eletrônicos,2,860.11,Cartão de Crédito,21.17,Entregue,13.0
+351,73,2022-10-21,Calça Jeans,Livros,5,649.47,Boleto,,Cancelado,
+354,91,2022-08-09,Vestido,Acessórios,4,508.71,Dinheiro,15.35,Enviado,13.0
+356,1,2022-09-23,Bicicleta,Acessórios,6,427.19,Boleto,21.53,Entregue,8.0
+357,44,2022-06-24,Laptop,Vestuário,9,273.15,Cartão de Crédito,33.68,Entregue,6.0
+358,27,2022-04-21,Bicicleta,Eletrônicos,5,77.38,Boleto,28.9,Entregue,2.0
+360,59,2022-06-16,Chapéu,Eletrônicos,3,702.93,Dinheiro,,Processando,
+362,68,2022-12-17,Câmera,Lazer,8,984.87,Dinheiro,37.46,Entregue,1.0
+364,86,2022-01-28,Fones de Ouvido,Eletrônicos,9,526.46,Dinheiro,25.89,Enviado,9.0
+366,5,2022-07-19,Bicicleta,Vestuário,3,298.76,Cartão de Débito,20.24,Cancelado,9.0
+369,49,2022-11-19,Mochila,Acessórios,10,430.26,Cartão de Crédito,,Cancelado,
+372,31,2022-06-03,Mochila,Livros,2,11.98,Pix,15.22,Enviado,5.0
+373,90,2022-09-23,Câmera,Lazer,4,811.97,Boleto,40.43,Entregue,5.0
+380,21,2022-10-06,Óculos de Sol,Vestuário,8,423.24,Pix,36.0,Processando,7.0
+381,68,2022-08-08,Calça Jeans,Eletrônicos,9,592.3,Dinheiro,23.24,Entregue,2.0
+382,48,2022-08-06,Óculos de Sol,Lazer,8,150.25,Boleto,25.96,Processando,3.0
+383,90,2022-03-25,Câmera,Vestuário,4,110.42,Dinheiro,38.81,Entregue,7.0
+386,65,2022-05-02,Mochila,Acessórios,5,966.75,Pix,34.78,Cancelado,7.0
+394,96,2022-08-03,Sapatos,Acessórios,5,432.63,Cartão de Crédito,33.03,Enviado,9.0
+396,10,2022-06-26,Relógio,Vestuário,7,486.2,Dinheiro,,Enviado,
+397,15,2022-02-14,Monitor de Atividade,Vestuário,9,64.39,Cartão de Crédito,16.35,Entregue,4.0
+400,36,2022-07-10,Guitarra,Vestuário,9,178.27,Dinheiro,44.64,Entregue,12.0
+402,40,2022-06-11,Jogo de Tabuleiro,Acessórios,9,350.33,Cartão de Débito,37.2,Enviado,3.0
+404,93,2022-03-13,Jogo de Tabuleiro,Lazer,6,693.6,Cartão de Crédito,7.41,Enviado,14.0
+405,38,2022-06-13,Mochila,Lazer,6,285.67,Dinheiro,,Cancelado,
+407,62,2022-07-31,Relógio Inteligente,Livros,7,884.22,Cartão de Débito,39.15,Entregue,13.0
+408,21,2022-11-22,Bicicleta,Acessórios,3,388.74,Pix,28.01,Entregue,5.0
+409,40,2022-10-20,Calça Jeans,Livros,7,709.81,Dinheiro,41.55,Enviado,13.0
+410,86,2022-03-26,Vestido,Lazer,6,380.14,Boleto,10.14,Enviado,5.0
+413,43,2022-10-15,Sapatos,Vestuário,2,874.9,Dinheiro,22.46,Cancelado,5.0
+417,15,2022-11-23,Fones de Ouvido,Vestuário,6,235.8,Dinheiro,20.16,Enviado,10.0
+418,32,2022-05-24,Guitarra,Livros,10,448.62,Cartão de Débito,19.8,Entregue,8.0
+420,92,2022-02-15,Tablet,Acessórios,7,682.14,Cartão de Débito,36.94,Cancelado,13.0
+422,35,2022-12-21,Jogo de Vídeo,Livros,3,357.05,Dinheiro,10.25,Entregue,13.0
+426,26,2022-10-09,Relógio Inteligente,Vestuário,2,171.4,Boleto,24.65,Cancelado,1.0
+427,15,2022-08-09,Smartphone,Vestuário,3,375.96,Cartão de Débito,22.6,Cancelado,8.0
+429,40,2022-11-10,Smartphone,Vestuário,10,898.4,Boleto,26.7,Enviado,4.0
+431,31,2022-08-08,Mochila,Livros,8,526.02,Dinheiro,25.32,Enviado,5.0
+432,22,2022-05-10,Câmera,Lazer,3,302.39,Boleto,,Processando,
+438,70,2022-02-13,Tablet,Eletrônicos,5,507.86,Cartão de Débito,39.34,Processando,4.0
+439,56,2022-10-24,Camiseta,Lazer,7,675.77,Cartão de Crédito,27.59,Enviado,7.0
+440,65,2022-03-02,Relógio Inteligente,Livros,6,538.13,Pix,41.33,Entregue,12.0
+443,27,2022-12-07,Sapatos,Lazer,7,787.92,Boleto,12.13,Processando,2.0
+445,38,2022-07-21,Guitarra,Acessórios,8,497.72,Pix,7.41,Processando,11.0
+446,35,2022-11-07,Tablet,Lazer,8,920.52,Cartão de Crédito,24.8,Entregue,4.0
+449,27,2022-09-28,Chapéu,Livros,9,751.89,Cartão de Débito,21.31,Enviado,4.0
+455,41,2022-03-20,Sapatos,Vestuário,1,411.35,Boleto,38.23,Processando,9.0
+456,4,2022-07-01,Chapéu,Acessórios,3,497.33,Pix,25.61,Cancelado,7.0
+457,55,2022-05-08,Tablet,Lazer,6,256.41,Cartão de Débito,7.25,Entregue,6.0
+458,61,2022-02-03,Livro,Acessórios,3,769.98,Cartão de Crédito,19.29,Cancelado,11.0
+459,64,2022-05-26,Câmera,Lazer,1,118.1,Pix,,Processando,
+460,46,2022-06-09,Tablet,Eletrônicos,6,410.9,Cartão de Crédito,41.95,Enviado,10.0
+462,27,2022-04-28,Relógio Inteligente,Acessórios,8,106.71,Dinheiro,39.4,Cancelado,4.0
+464,49,2022-03-14,Óculos de Sol,Livros,5,913.15,Pix,26.66,Cancelado,10.0
+465,56,2022-06-02,Relógio Inteligente,Acessórios,5,892.37,Cartão de Débito,21.68,Entregue,10.0
+467,96,2022-07-10,Chapéu,Livros,7,939.24,Pix,34.0,Processando,9.0
+468,70,2022-04-11,Chapéu,Eletrônicos,2,307.4,Boleto,,Processando,
+469,35,2022-07-26,Câmera,Livros,1,674.7,Cartão de Débito,48.33,Cancelado,9.0
+470,82,2022-06-21,Tablet,Lazer,9,49.85,Cartão de Débito,24.25,Processando,12.0
+472,86,2022-03-10,Guitarra,Vestuário,1,889.16,Cartão de Crédito,9.42,Entregue,8.0
+474,90,2022-03-09,Chapéu,Lazer,1,644.83,Dinheiro,10.82,Cancelado,2.0
+475,38,2022-10-31,Jogo de Tabuleiro,Acessórios,4,94.37,Pix,26.71,Processando,5.0
+477,42,2022-10-14,Calça Jeans,Lazer,6,172.6,Dinheiro,,Entregue,
+478,1,2022-08-23,Mochila,Acessórios,5,475.91,Boleto,7.0,Entregue,3.0
+479,21,2022-10-02,Tablet,Acessórios,4,220.05,Cartão de Crédito,6.56,Processando,1.0
+481,25,2022-01-27,Jogo de Vídeo,Vestuário,9,354.47,Boleto,19.26,Processando,13.0
+483,14,2022-04-28,Vestido,Vestuário,2,181.08,Dinheiro,14.67,Cancelado,1.0
+484,83,2022-07-18,Jogo de Tabuleiro,Acessórios,8,843.16,Pix,37.25,Enviado,11.0
+488,58,2022-06-16,Mochila,Lazer,5,241.63,Dinheiro,13.97,Entregue,3.0
+489,73,2022-09-25,Camiseta,Acessórios,10,707.28,Boleto,44.16,Cancelado,8.0
+490,45,2022-09-30,Vestido,Vestuário,7,766.71,Boleto,6.97,Cancelado,8.0
+494,35,2022-07-11,Chapéu,Lazer,1,188.45,Cartão de Débito,39.22,Cancelado,7.0
+495,86,2022-07-18,Vestido,Acessórios,9,202.74,Dinheiro,,Cancelado,
+500,81,2022-06-24,Câmera,Lazer,3,80.58,Pix,22.79,Enviado,10.0

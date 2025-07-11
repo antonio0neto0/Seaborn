@@ -1,0 +1,101 @@
+,Unnamed: 0,ID,Faculdade,Curso,Duracao_Anos,Mensalidade,Turno,Data,Ano
+0,14,15,Faculdade Iota,Direito,5,1546.37,Matutino,2022-07-02,2022
+1,53,54,Centro Universitário Theta,Direito,5,1489.57,Matutino,2022-07-07,2022
+2,77,78,Escola Superior Kappa,Medicina,6,11738.87,Vespertino,2022-06-07,2022
+3,134,135,Universidade Alpha,Ciência da Computação,4,3009.28,Vespertino,2022-05-31,2022
+4,141,142,Centro Universitário Theta,Economia,4,1210.95,Matutino,2022-10-01,2022
+5,144,145,Escola Superior Epsilon,Ciência da Computação,4,3145.21,Vespertino,2022-06-30,2022
+6,159,160,Instituto Eta de Ciências,Psicologia,5,1270.14,Matutino,2022-06-11,2022
+7,168,169,Centro Universitário Theta,Ciência da Computação,4,2983.67,Matutino,2022-07-27,2022
+8,178,179,Instituto Eta de Ciências,Medicina,6,12118.18,Vespertino,2022-08-10,2022
+9,185,186,Faculdade Iota,Administração,4,761.09,Matutino,2022-12-27,2022
+10,190,191,Centro Universitário Theta,Engenharia Civil,5,2600.93,Vespertino,2022-08-11,2022
+11,195,196,Escola Superior Kappa,Administração,4,773.13,Matutino,2022-03-15,2022
+12,222,223,Instituto Beta de Tecnologia,Administração,4,776.98,Vespertino,2022-03-29,2022
+13,235,236,Escola Superior Kappa,Engenharia Civil,5,2710.02,Matutino,2022-03-28,2022
+14,246,247,Faculdade Delta,Administração,4,782.58,Vespertino,2022-07-22,2022
+15,248,249,Centro Universitário Gamma,Enfermagem,5,1830.8,Vespertino,2022-10-23,2022
+16,255,256,Escola Superior Kappa,Ciência da Computação,4,3028.12,Noturno,2022-08-13,2022
+17,259,260,Universidade Alpha,Administração,4,794.78,Vespertino,2022-07-18,2022
+18,268,269,Instituto Eta de Ciências,Odontologia,5,5932.28,Vespertino,2022-03-31,2022
+19,271,272,Universidade Alpha,Direito,5,1488.9,Matutino,2022-02-11,2022
+20,284,285,Centro Universitário Theta,Enfermagem,5,1790.87,Noturno,2022-06-21,2022
+21,286,287,Instituto Beta de Tecnologia,Arquitetura,5,2019.13,Noturno,2022-05-15,2022
+22,288,289,Universidade Zeta,Administração,4,772.18,Vespertino,2022-10-08,2022
+23,300,301,Universidade Zeta,Economia,4,1292.39,Noturno,2022-07-06,2022
+24,306,307,Centro Universitário Gamma,Arquitetura,5,1947.63,Vespertino,2022-04-17,2022
+25,318,319,Faculdade Iota,Medicina,6,11454.64,Vespertino,2022-09-30,2022
+26,326,327,Escola Superior Kappa,Odontologia,5,6260.86,Matutino,2022-01-21,2022
+27,327,328,Escola Superior Epsilon,Medicina,6,11583.55,Noturno,2022-04-04,2022
+28,331,332,Centro Universitário Theta,Psicologia,5,1197.71,Matutino,2022-12-27,2022
+29,335,336,Faculdade Iota,Engenharia Civil,5,2704.09,Matutino,2022-11-22,2022
+30,339,340,Instituto Beta de Tecnologia,Economia,4,1272.0,Vespertino,2022-06-06,2022
+31,342,343,Universidade Zeta,Odontologia,5,5709.39,Matutino,2022-03-06,2022
+32,370,371,Faculdade Iota,Arquitetura,5,1937.18,Noturno,2022-04-01,2022
+33,395,396,Instituto Eta de Ciências,Enfermagem,5,1735.07,Matutino,2022-07-04,2022
+34,399,400,Universidade Alpha,Psicologia,5,1259.27,Matutino,2022-01-26,2022
+35,400,401,Instituto Beta de Tecnologia,Ciência da Computação,4,3015.81,Matutino,2022-05-11,2022
+36,406,407,Universidade Zeta,Direito,5,1615.84,Vespertino,2022-05-04,2022
+37,409,410,Faculdade Delta,Odontologia,5,5979.64,Vespertino,2022-08-26,2022
+38,410,411,Instituto Beta de Tecnologia,Psicologia,5,1281.31,Vespertino,2022-02-21,2022
+39,419,420,Faculdade Iota,Economia,4,1276.39,Matutino,2022-01-01,2022
+40,425,426,Centro Universitário Gamma,Administração,4,803.26,Matutino,2022-04-07,2022
+41,439,440,Escola Superior Kappa,Psicologia,5,1241.45,Noturno,2022-11-10,2022
+42,442,443,Universidade Alpha,Medicina,6,11930.14,Noturno,2022-10-27,2022
+43,474,475,Faculdade Delta,Enfermagem,5,1888.47,Noturno,2022-03-19,2022
+44,485,486,Escola Superior Epsilon,Psicologia,5,1218.52,Matutino,2022-03-20,2022
+45,488,489,Faculdade Iota,Odontologia,5,6201.65,Vespertino,2022-11-03,2022
+46,496,497,Escola Superior Kappa,Enfermagem,5,1757.85,Noturno,2022-04-08,2022
+47,509,510,Escola Superior Kappa,Arquitetura,5,2046.47,Matutino,2022-12-18,2022
+48,514,515,Faculdade Delta,Psicologia,5,1240.19,Noturno,2022-04-02,2022
+49,515,516,Instituto Eta de Ciências,Engenharia Civil,5,2748.96,Matutino,2022-07-18,2022
+50,517,518,Centro Universitário Gamma,Engenharia Civil,5,2536.49,Noturno,2022-10-05,2022
+51,535,536,Universidade Zeta,Engenharia Civil,5,2710.25,Noturno,2022-07-21,2022
+52,558,559,Escola Superior Epsilon,Engenharia Civil,5,2584.56,Noturno,2022-12-23,2022
+53,559,560,Centro Universitário Gamma,Economia,4,1277.55,Noturno,2022-06-06,2022
+54,574,575,Universidade Alpha,Enfermagem,5,1843.06,Noturno,2022-03-21,2022
+55,593,594,Faculdade Delta,Medicina,6,12015.83,Vespertino,2022-06-15,2022
+56,595,596,Instituto Eta de Ciências,Economia,4,1225.4,Noturno,2022-08-09,2022
+57,599,600,Faculdade Iota,Enfermagem,5,1822.36,Vespertino,2022-10-06,2022
+58,607,608,Escola Superior Epsilon,Administração,4,772.09,Noturno,2022-09-15,2022
+59,618,619,Faculdade Delta,Ciência da Computação,4,2906.58,Vespertino,2022-04-11,2022
+60,634,635,Instituto Beta de Tecnologia,Medicina,6,12414.9,Matutino,2022-06-07,2022
+61,639,640,Universidade Zeta,Psicologia,5,1241.45,Vespertino,2022-08-02,2022
+62,640,641,Universidade Zeta,Ciência da Computação,4,3039.94,Matutino,2022-07-10,2022
+63,641,642,Escola Superior Epsilon,Economia,4,1248.64,Matutino,2022-02-05,2022
+64,646,647,Instituto Beta de Tecnologia,Direito,5,1482.05,Vespertino,2022-08-18,2022
+65,647,648,Centro Universitário Theta,Administração,4,787.79,Noturno,2022-10-20,2022
+66,651,652,Escola Superior Kappa,Direito,5,1615.85,Vespertino,2022-08-07,2022
+67,652,653,Escola Superior Epsilon,Direito,5,1545.69,Noturno,2022-10-10,2022
+68,666,667,Centro Universitário Gamma,Odontologia,5,5787.51,Noturno,2022-08-24,2022
+69,682,683,Instituto Eta de Ciências,Administração,4,802.63,Vespertino,2022-08-23,2022
+70,695,696,Universidade Alpha,Odontologia,5,6217.14,Noturno,2022-08-12,2022
+71,702,703,Universidade Zeta,Enfermagem,5,1799.0,Matutino,2022-01-03,2022
+72,721,722,Escola Superior Epsilon,Arquitetura,5,2092.03,Noturno,2022-11-28,2022
+73,730,731,Escola Superior Kappa,Economia,4,1296.77,Noturno,2022-03-17,2022
+74,734,735,Centro Universitário Gamma,Medicina,6,11836.81,Noturno,2022-08-27,2022
+75,739,740,Faculdade Delta,Arquitetura,5,2024.66,Noturno,2022-04-23,2022
+76,758,759,Faculdade Iota,Ciência da Computação,4,3047.55,Matutino,2022-05-22,2022
+77,793,794,Centro Universitário Gamma,Psicologia,5,1180.52,Matutino,2022-01-11,2022
+78,825,826,Centro Universitário Theta,Arquitetura,5,2061.96,Matutino,2022-04-13,2022
+79,826,827,Universidade Alpha,Engenharia Civil,5,2591.52,Matutino,2022-07-30,2022
+80,832,833,Escola Superior Epsilon,Enfermagem,5,1714.12,Matutino,2022-02-06,2022
+81,835,836,Faculdade Delta,Direito,5,1484.79,Vespertino,2022-01-29,2022
+82,837,838,Universidade Alpha,Economia,4,1216.51,Matutino,2022-08-06,2022
+83,882,883,Instituto Eta de Ciências,Arquitetura,5,2115.22,Matutino,2022-04-13,2022
+84,888,889,Centro Universitário Gamma,Ciência da Computação,4,3052.63,Noturno,2022-05-05,2022
+85,910,911,Universidade Zeta,Medicina,6,12166.08,Noturno,2022-08-22,2022
+86,914,915,Instituto Beta de Tecnologia,Enfermagem,5,1749.44,Matutino,2022-11-17,2022
+87,926,927,Instituto Eta de Ciências,Ciência da Computação,4,2938.92,Noturno,2022-03-12,2022
+88,928,929,Centro Universitário Theta,Medicina,6,11902.9,Noturno,2022-08-13,2022
+89,930,931,Centro Universitário Theta,Odontologia,5,6212.86,Vespertino,2022-10-20,2022
+90,953,954,Instituto Beta de Tecnologia,Odontologia,5,5826.78,Vespertino,2022-01-08,2022
+91,956,957,Escola Superior Epsilon,Odontologia,5,5920.47,Noturno,2022-08-24,2022
+92,962,963,Universidade Zeta,Arquitetura,5,2105.39,Matutino,2022-02-06,2022
+93,991,992,Universidade Alpha,Arquitetura,5,1981.02,Noturno,2022-06-13,2022
+94,995,996,Instituto Beta de Tecnologia,Engenharia Civil,5,2593.75,Matutino,2022-11-15,2022
+95,1002,1003,Faculdade Delta,Engenharia Civil,5,2744.13,Noturno,2022-08-13,2022
+96,1028,1029,Faculdade Iota,Psicologia,5,1276.47,Noturno,2022-08-26,2022
+97,1054,1055,Faculdade Delta,Economia,4,1201.79,Noturno,2022-07-29,2022
+98,1058,1059,Instituto Eta de Ciências,Direito,5,1538.84,Vespertino,2022-06-22,2022
+99,1090,1091,Centro Universitário Gamma,Direito,5,1608.65,Vespertino,2022-01-30,2022

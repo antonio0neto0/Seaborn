@@ -1,0 +1,501 @@
+Nome,Email,CPF,Telefone,Data Matricula,Curso
+Stephany Duarte,heitor86@moreira.com,417.823.590-79,31 1541-1296,2023-03-11,Artes
+Rodrigo Fernandes,melissarocha@bol.com.br,195.368.240-51,+55 21 2698 2951,2023-10-21,Direito
+Felipe Almeida,sarah40@costela.org,491.835.270-79,81 7334 3967,2023-03-26,Psicologia
+Ana Moraes,vicentecardoso@peixoto.net,159.640.783-20,+55 31 7542 9179,2022-10-24,Artes
+Rebeca Aragão,scardoso@fernandes.com,914.208.756-20,+55 61 6353-0862,2024-02-16,Psicologia
+Lorena Ferreira,aliciamoura@das.com,502.647.389-00,61 5188-4768,2023-11-12,Medicina
+Maria Vitória Nascimento,ericksales@hotmail.com,581.392.670-40,(031) 7840-1955,2024-03-01,Medicina
+Luiz Otávio Costela,ssantos@bol.com.br,427.369.851-09,+55 81 7327 5637,2022-11-04,Engenharia
+Eduardo da Costa,fernandescecilia@barros.br,097.618.432-03,+55 (061) 5630 8309,2022-11-10,Artes
+Sr. Augusto Novaes,fernandesluigi@ig.com.br,567.340.819-66,(084) 7062-3721,2023-11-30,Psicologia
+Emanuella Moura,rezenderodrigo@yahoo.com.br,370.465.219-99,+55 (031) 1992-7896,2023-08-05,Direito
+Júlia da Conceição,cmartins@bol.com.br,725.648.903-00,(011) 4677 7995,2024-01-11,Medicina
+Sr. Samuel Teixeira,martinsthales@yahoo.com.br,108.234.596-24,+55 (081) 6544-3761,2023-12-29,Medicina
+Cecília Ribeiro,anogueira@ig.com.br,104.396.528-98,+55 (051) 4532 7871,2022-11-26,Direito
+João Miguel Almeida,nmoraes@gmail.com,361.708.294-78,+55 (031) 4045-5465,2022-12-08,Psicologia
+Diogo Rezende,luiz-miguel84@freitas.com,721.369.054-06,+55 (061) 7732-5242,2023-04-24,Psicologia
+Ana Laura Correia,barrosana-sophia@hotmail.com,605.897.421-67,+55 (081) 6902 3290,2022-06-02,Artes
+Dr. Fernando da Cunha,coliveira@da.br,129.340.857-32,+55 61 1653 8171,2023-04-13,Artes
+Maysa Porto,oliveiralarissa@yahoo.com.br,968.345.071-75,+55 71 0948-5736,2023-01-14,Ciência da Computação
+Isabel Costa,bcampos@bol.com.br,860.451.723-53,+55 (051) 7975-9725,2024-03-15,Ciência da Computação
+Rebeca Moraes,zramos@da.com,107.542.896-30,(031) 4413 9800,2023-01-08,Engenharia
+Antônio da Mota,heloisamendes@costela.br,746.813.592-46,11 7453-3361,2023-08-06,Medicina
+Caio Nogueira,alexia98@uol.com.br,695.042.873-10,21 5943-1210,2023-10-22,Artes
+Ana Lívia Vieira,jesuslarissa@uol.com.br,847.023.195-23,(061) 9468 9636,2023-01-11,Psicologia
+Sarah Almeida,costelaandre@pereira.br,961.578.023-59,+55 (051) 0717 4768,2024-03-16,Direito
+Catarina Campos,tduarte@da.com,369.548.210-98,+55 (081) 6037 5027,2022-06-29,Psicologia
+Sofia da Cruz,da-pazthiago@almeida.net,623.907.518-30,+55 (051) 2378 7853,2022-04-20,Medicina
+Emanuel Duarte,rebeca09@hotmail.com,548.691.037-10,0300 574 0744,2023-07-01,Ciência da Computação
+Marcelo Cavalcanti,monteiroana-julia@uol.com.br,829.156.304-70,+55 (031) 9241-3948,2022-03-24,Psicologia
+Dr. Emanuel Pinto,caua65@yahoo.com.br,908.431.756-48,+55 (041) 7495 5175,2023-11-23,Engenharia
+Maria Cecília Barros,carlos-eduardomoraes@hotmail.com,064.713.952-99,11 6923 7384,2023-11-20,Medicina
+Luiza das Neves,kaiquepereira@moreira.br,483.296.571-91,+55 61 1909 1266,2023-05-11,Ciência da Computação
+Matheus Oliveira,gabriel47@uol.com.br,432.168.790-03,81 7157 2826,2023-07-13,Direito
+Marcos Vinicius Ramos,glopes@correia.br,643.029.175-80,(084) 0286 8894,2022-11-11,Ciência da Computação
+Enzo Gabriel Melo,carvalhoheloisa@gmail.com,683.710.492-69,41 8523 7648,2023-04-30,Engenharia
+Isabel da Costa,rodriguesmaria-eduarda@bol.com.br,354.608.729-10,+55 11 8311 6245,2023-09-10,Medicina
+Theo Pires,renanmendes@uol.com.br,136.894.250-42,(071) 9539-4135,2023-04-08,Direito
+Miguel Rezende,ana-clara47@pires.com,037.625.491-25,41 8881-2453,2024-01-11,Engenharia
+Henrique da Cunha,vcampos@mendes.com,845.620.379-38,+55 (031) 1797 9458,2023-02-15,Ciência da Computação
+Ana Carolina Martins,leticiaaraujo@bol.com.br,384.507.219-97,+55 (041) 3589 7322,2023-06-21,Engenharia
+Pietra Cardoso,lucca83@yahoo.com.br,138.264.590-24,0500-799-8112,2022-11-10,Medicina
+Dra. Catarina da Costa,milena70@peixoto.com,284.673.910-22,+55 61 1054-1724,2022-08-15,Artes
+Sr. Caio Caldeira,anaaragao@uol.com.br,408.563.127-62,+55 (011) 4514 1456,2022-07-18,Engenharia
+Dra. Eduarda das Neves,jesusgabrielly@nascimento.com,150.926.743-34,21 6037 6133,2022-09-19,Engenharia
+Joaquim Melo,correiamariane@yahoo.com.br,746.385.019-66,+55 71 8388 2416,2022-08-17,Ciência da Computação
+Evelyn Caldeira,caue33@uol.com.br,301.259.764-61,+55 (071) 2784-2981,2023-11-20,Ciência da Computação
+André da Rocha,renan78@das.com,865.207.943-92,(061) 6661-7912,2023-02-11,Direito
+Davi Lucca Porto,joao-vitor25@gmail.com,640.183.297-50,+55 61 6120 5587,2022-05-17,Ciência da Computação
+Srta. Ana Laura Lopes,daniel00@hotmail.com,695.013.842-33,(021) 5354-2609,2022-11-04,Psicologia
+Ana Vitória Sales,cunhalarissa@silva.net,340.158.762-53,+55 (071) 3691-8698,2022-04-13,Medicina
+Stella Farias,eduarda75@nascimento.br,134.807.592-97,(081) 2173 5825,2024-02-20,Medicina
+Murilo Rocha,isadorasales@santos.br,210.685.379-30,31 1035-6080,2022-03-24,Artes
+Isadora Mendes,bmartins@peixoto.br,405.896.732-38,+55 41 3179-3781,2022-09-18,Artes
+Maria Alice Vieira,claricepinto@duarte.br,524.086.197-85,0300 295 5898,2023-05-18,Medicina
+Sra. Juliana Silveira,rfogaca@viana.com,615.238.704-35,11 3396 8932,2023-01-14,Artes
+Marcela Oliveira,lucaspinto@bol.com.br,857.046.129-11,+55 (081) 7492-3080,2023-05-03,Direito
+João Miguel Lopes,yasminpereira@gmail.com,530.829.674-00,21 9652-4827,2023-12-23,Ciência da Computação
+Miguel Ribeiro,ifreitas@goncalves.br,352.874.019-14,21 4852 4920,2023-02-21,Medicina
+Julia Costa,rafaela52@caldeira.br,809.624.153-24,11 2852-1282,2024-03-20,Artes
+Bernardo da Rocha,teixeirabenicio@costa.net,257.480.361-26,11 2818 5105,2023-10-30,Medicina
+Rodrigo Azevedo,joao-gabrielcosta@gmail.com,950.231.487-50,51 2307 1301,2022-07-31,Psicologia
+Ana Luiza Vieira,da-pazevelyn@ig.com.br,087.239.561-86,+55 81 1972 3664,2023-09-28,Engenharia
+Caio Duarte,pintoalice@uol.com.br,254.069.387-38,(051) 1066 2786,2023-10-31,Ciência da Computação
+Isaac Silveira,ana-claraaragao@duarte.com,643.298.501-33,+55 (051) 5408-9700,2022-11-15,Medicina
+Ryan Ferreira,isabellyrocha@bol.com.br,245.713.896-55,+55 (021) 6234-4753,2023-10-03,Engenharia
+Maitê Dias,salesdavi-luiz@barros.com,932.781.406-13,(021) 0892-8564,2022-07-06,Artes
+Murilo Silva,maria-vitoriasales@barbosa.org,057.943.126-61,+55 84 9898-4377,2022-09-22,Engenharia
+Pedro Lucas Cavalcanti,dpinto@yahoo.com.br,142.708.936-13,+55 (041) 3229 8844,2022-06-19,Ciência da Computação
+Maria Eduarda Barros,da-rosaluna@hotmail.com,589.274.306-38,+55 (061) 9074-4674,2022-05-12,Medicina
+Sr. Nathan Ramos,breno80@pinto.br,936.458.102-42,+55 21 9588-6252,2023-07-28,Psicologia
+Luiz Felipe Carvalho,cardosomanuela@lima.com,960.438.725-10,+55 11 2238-4044,2024-01-06,Artes
+Sra. Emanuella Ribeiro,martinsdiego@yahoo.com.br,136.582.940-51,(051) 6463-7264,2023-04-13,Medicina
+Cecília Cardoso,melomelissa@da.com,875.940.126-58,+55 84 8305 2218,2023-05-02,Ciência da Computação
+João da Rosa,luiz-felipesilveira@rocha.com,318.067.524-17,71 2153-5587,2023-03-31,Artes
+Mariane Moraes,larissada-rocha@nunes.com,480.192.753-04,+55 21 4180 6272,2023-10-20,Direito
+Dr. Luiz Henrique Cavalcanti,maysada-paz@gmail.com,084.937.156-20,(041) 9580-8622,2023-03-17,Engenharia
+Ana Sophia Alves,ucostela@ig.com.br,057.862.413-35,+55 41 1762 8100,2023-10-10,Ciência da Computação
+Miguel Nunes,luiz-fernandosilveira@porto.com,174.523.086-62,0900-571-5964,2022-05-06,Direito
+Evelyn da Conceição,larissa32@da.org,305.927.168-21,81 8109-3026,2022-12-28,Medicina
+João Gabriel Gonçalves,milenasilva@pereira.com,267.830.549-00,81 3576 4559,2023-01-05,Psicologia
+Dr. Theo Oliveira,rmoreira@cavalcanti.com,347.915.026-80,41 0544 5744,2023-08-07,Artes
+João da Rosa,catarina47@costela.br,534.970.168-10,(081) 7955-2689,2023-05-18,Engenharia
+Amanda das Neves,da-luzfrancisco@silva.br,094.637.152-07,0900-448-0730,2023-08-30,Artes
+Raul Correia,ana-livia25@ig.com.br,274.365.089-38,+55 21 6218 0453,2022-07-24,Medicina
+Giovanna Duarte,barrosluiz-miguel@da.com,932.548.170-79,+55 (081) 6545-2349,2022-03-25,Artes
+Theo Oliveira,nsouza@rodrigues.com,638.071.542-80,84 8807-8555,2024-01-03,Engenharia
+Maria Clara Moraes,otavio14@santos.com,394.526.817-64,+55 (084) 3552-7726,2022-04-20,Medicina
+Benício Pires,ramosigor@sales.org,932.485.760-65,84 0058-3167,2022-07-17,Artes
+Sr. João Porto,carvalholucas@uol.com.br,530.781.964-10,(071) 4794 7465,2023-07-13,Psicologia
+Vitória Alves,maria22@hotmail.com,401.352.697-25,(084) 3807-9344,2023-07-09,Ciência da Computação
+Clara Teixeira,tsales@viana.br,857.416.329-55,11 4013-9772,2023-07-15,Medicina
+Sr. Thales Moraes,luizamelo@carvalho.org,852.013.469-60,41 0208 8391,2022-05-03,Ciência da Computação
+Gustavo Aragão,rodrigo79@bol.com.br,719.308.256-68,(021) 3934-1100,2024-02-11,Medicina
+Elisa Ferreira,caue78@yahoo.com.br,643.107.592-70,0900-226-8159,2024-01-15,Psicologia
+André Correia,yribeiro@correia.net,195.643.820-33,(084) 1011 7433,2023-07-08,Ciência da Computação
+Pietra Carvalho,luiz-henriquealves@hotmail.com,649.230.578-74,+55 (041) 6788 2652,2023-06-23,Direito
+Diego Moreira,fernandooliveira@silveira.com,602.714.395-99,+55 31 5695 9237,2023-04-29,Engenharia
+Noah Araújo,bfernandes@jesus.br,536.941.072-07,(041) 0369 3644,2022-12-05,Direito
+João Vitor Araújo,maria-alicerodrigues@hotmail.com,987.325.601-68,(051) 7900-6185,2023-06-15,Artes
+Davi Pires,lcardoso@nunes.org,279.836.504-00,(031) 4683 4465,2022-11-25,Psicologia
+Rafaela Caldeira,stellacampos@cunha.br,918.320.647-78,+55 (084) 1623 3825,2022-04-20,Direito
+Cauã Azevedo,das-nevesalice@farias.br,736.948.105-01,61 4722 7473,2022-08-18,Medicina
+João Lucas Aragão,salesmaysa@mendes.br,584.793.621-46,(041) 4007 6358,2023-11-21,Artes
+Catarina Barbosa,da-rosabernardo@yahoo.com.br,267.941.358-09,(061) 8680-4662,2023-03-06,Artes
+Guilherme Porto,rodriguesluiz-fernando@monteiro.com,217.930.548-60,+55 (071) 1652-5336,2022-09-12,Direito
+Calebe Castro,stephany38@bol.com.br,390.874.251-04,+55 31 9322 7048,2022-11-28,Direito
+Emilly Nogueira,joao-vitorcastro@uol.com.br,416.357.980-00,+55 31 7622 3406,2024-03-19,Psicologia
+Isis Cavalcanti,bteixeira@bol.com.br,896.052.743-29,+55 84 7725 0151,2023-09-24,Engenharia
+Srta. Catarina Peixoto,fernanda86@hotmail.com,250.463.917-16,+55 31 3261-9833,2022-06-20,Direito
+Thiago Ferreira,ribeirogabriela@uol.com.br,942.607.153-99,+55 21 8113 7701,2024-03-21,Direito
+Dr. Luiz Miguel Gonçalves,da-rosaalexandre@gmail.com,905.741.862-20,0500 918 5806,2022-11-09,Ciência da Computação
+Elisa Azevedo,da-matajulia@hotmail.com,038.647.592-00,(011) 6597-8185,2023-01-31,Medicina
+Emilly Castro,jda-luz@uol.com.br,439.018.567-57,+55 (084) 7516 8913,2022-10-06,Ciência da Computação
+Marina da Mata,pintoerick@uol.com.br,948.053.726-56,21 7880 6601,2022-11-22,Ciência da Computação
+Helena Ferreira,nicolas99@nascimento.org,417.860.935-10,+55 (061) 0066 4079,2022-05-29,Artes
+Esther das Neves,salespedro-miguel@castro.com,830.619.452-70,+55 (041) 4038-2762,2023-11-09,Engenharia
+Srta. Maria Julia Caldeira,xfogaca@yahoo.com.br,057.643.891-00,+55 11 7552 6763,2022-09-24,Medicina
+Yuri Santos,almeidafernando@bol.com.br,201.638.974-50,+55 61 9439-4730,2023-04-16,Psicologia
+Heloísa Costela,stellamoura@gmail.com,108.749.562-85,+55 81 6799-8388,2023-07-14,Psicologia
+Rodrigo Costa,tmonteiro@uol.com.br,108.642.397-69,+55 31 7470-6759,2023-09-28,Direito
+Laís Peixoto,fariasana-julia@castro.br,146.802.379-96,+55 71 6185-4824,2022-08-25,Direito
+Fernando Santos,bianca49@martins.br,279.153.086-02,+55 (041) 2593 1156,2023-06-10,Psicologia
+Brenda Nascimento,srocha@ig.com.br,806.437.129-50,(084) 8525-5774,2023-04-24,Direito
+Isabel Nunes,carolina59@da.br,425.391.876-09,+55 (071) 3389 7355,2023-01-15,Engenharia
+Lívia Barros,raquelsouza@campos.br,751.283.940-50,(084) 3633-8132,2024-03-12,Ciência da Computação
+Sra. Gabriela Azevedo,emanuellylima@bol.com.br,301.286.549-70,+55 (071) 9898-3476,2022-09-10,Direito
+Bruna Sales,clara08@uol.com.br,296.034.758-74,41 9877 5476,2023-04-30,Artes
+Sr. Leandro Porto,benjamin40@azevedo.com,168.237.495-55,0800-291-6186,2022-12-21,Direito
+Eduardo Rocha,da-rosaluiza@pires.com,420.679.851-67,+55 (084) 9800 9756,2022-09-26,Medicina
+Stephany Souza,davi-lucasoliveira@uol.com.br,653.278.419-28,0300-238-6141,2022-04-02,Engenharia
+Felipe Rocha,mouradiogo@cavalcanti.br,561.347.098-75,+55 51 5780 6096,2022-07-20,Medicina
+Marcos Vinicius da Conceição,lcardoso@jesus.com,069.748.532-38,(031) 1410 6743,2022-04-13,Medicina
+Sarah Carvalho,cardosopedro-henrique@ribeiro.com,463.872.019-69,(041) 8349 1539,2024-01-01,Artes
+Thales Cavalcanti,melohelena@fernandes.br,302.145.687-17,0800-520-6633,2023-09-04,Engenharia
+Alana Pereira,isabel40@da.org,870.614.592-20,(061) 7354-0449,2024-01-31,Engenharia
+Benício Monteiro,amandanunes@hotmail.com,817.645.923-28,+55 84 3708-7362,2023-08-20,Engenharia
+Danilo Barbosa,wmendes@yahoo.com.br,591.370.642-07,(084) 2857 9536,2022-06-08,Engenharia
+Guilherme da Cunha,jaraujo@ribeiro.com,801.764.593-75,81 9582-4706,2022-05-19,Engenharia
+Thomas Gomes,heitor36@bol.com.br,628.397.540-29,+55 (061) 3672 7836,2022-10-29,Artes
+Yasmin Barbosa,rfernandes@azevedo.com,739.145.860-01,+55 (051) 8112-1747,2023-01-14,Direito
+Heloísa Cardoso,zda-luz@hotmail.com,397.205.481-50,(061) 9898 7459,2022-06-28,Medicina
+Sr. Levi das Neves,caua29@novaes.org,745.390.218-50,11 1476-5350,2023-06-02,Engenharia
+João Guilherme Teixeira,nascimentogabriela@fernandes.net,845.932.761-28,0800 116 0941,2024-02-07,Direito
+Catarina Rocha,gabriela86@moura.com,764.820.395-29,61 3276-4436,2023-06-08,Direito
+Elisa Fogaça,nunesstephany@dias.br,612.975.483-37,31 4818 1696,2022-09-11,Medicina
+Ryan Lopes,fmelo@cunha.br,913.052.867-40,21 8897 3989,2022-06-12,Artes
+Marcelo Oliveira,felipefernandes@hotmail.com,487.391.025-05,+55 61 4952-8387,2022-06-04,Psicologia
+Sr. Eduardo Carvalho,juan40@uol.com.br,493.627.801-78,21 3925 4096,2023-01-12,Psicologia
+Maria Luiza Pires,kduarte@caldeira.com,538.079.164-66,+55 41 9122-6772,2022-12-24,Direito
+Dr. João Lucas Silva,davi-luiz63@ferreira.br,706.581.932-95,+55 81 2965-8657,2023-11-11,Ciência da Computação
+Paulo Duarte,nascimentoaugusto@pinto.br,216.085.974-58,+55 (021) 7952 8287,2022-12-29,Ciência da Computação
+Sra. Nicole da Rocha,plima@yahoo.com.br,641.758.293-00,(084) 1054-3679,2023-05-12,Medicina
+Luna Pinto,elopes@gmail.com,403.615.978-00,(021) 7401-8093,2023-07-18,Psicologia
+Carolina Monteiro,noah73@lopes.net,842.357.916-64,(081) 9016 7107,2022-05-18,Direito
+Dr. Pedro Melo,lopesvinicius@fogaca.br,437.162.859-19,0500-032-9133,2023-03-10,Artes
+Clara Cunha,santosdavi@nascimento.org,850.634.921-42,0500 247 0746,2024-03-21,Psicologia
+Ana Laura Porto,luiz-otavio99@araujo.br,570.318.296-40,(081) 2618 1784,2022-09-05,Direito
+Renan Costa,thomasvieira@vieira.com,892.065.174-49,81 7790 0158,2024-02-08,Direito
+Augusto Carvalho,ana-vitoriafernandes@hotmail.com,723.804.695-47,+55 71 4362 1395,2022-11-24,Engenharia
+Natália da Conceição,diogo31@yahoo.com.br,854.961.320-70,+55 61 8645-2988,2022-05-24,Artes
+Murilo Moraes,xsouza@da.br,827.146.309-87,0300-203-8190,2022-04-05,Engenharia
+Gustavo Henrique Cunha,lucas15@hotmail.com,685.720.143-90,+55 11 0679 1376,2023-01-18,Medicina
+Pietro da Cunha,martinseduardo@gmail.com,102.973.548-41,0300 338 7035,2023-07-21,Engenharia
+Sr. Daniel Ferreira,viniciuscavalcanti@farias.com,241.709.386-31,(071) 7602-8152,2024-01-22,Engenharia
+Júlia Martins,ana-luiza76@mendes.net,798.015.364-20,0300-663-5257,2024-01-15,Psicologia
+Camila da Paz,nunesjoao-gabriel@bol.com.br,254.190.873-32,51 7384 4720,2022-09-11,Ciência da Computação
+Sra. Alice Araújo,goncalvesmariana@yahoo.com.br,876.349.520-10,+55 31 6347-4366,2022-12-09,Direito
+Ana Júlia Alves,mirellasouza@da.com,371.258.069-02,(041) 4118 4148,2024-01-17,Artes
+Dra. Camila Rezende,ana-laurada-cunha@gmail.com,346.508.719-48,0800-755-4286,2022-11-25,Engenharia
+Renan da Paz,brendarezende@cardoso.br,526.984.703-56,0300-007-1379,2023-07-11,Artes
+Thiago Campos,portoenzo-gabriel@pinto.br,714.563.890-84,11 4748-3977,2023-08-11,Ciência da Computação
+Augusto Nunes,hcaldeira@gomes.com,456.907.831-10,+55 (071) 2751-2532,2023-08-07,Ciência da Computação
+João Vitor da Luz,sophie29@cavalcanti.br,610.729.534-80,+55 31 8886-4357,2023-02-14,Engenharia
+Emilly Nunes,murilopinto@araujo.net,081.659.234-98,+55 (041) 4178 7692,2022-11-30,Medicina
+Breno Mendes,murilo72@hotmail.com,038.174.296-22,(051) 0264-6747,2023-10-22,Engenharia
+Nina Azevedo,luana93@uol.com.br,961.435.820-33,+55 (081) 6812 4761,2023-01-02,Psicologia
+Pedro Castro,emilly94@silveira.net,134.879.056-39,0500 509 3387,2023-08-06,Direito
+Yuri Souza,araujovinicius@hotmail.com,946.857.312-55,+55 31 3306 9143,2023-05-25,Medicina
+Lucas Gabriel Moraes,esantos@uol.com.br,859.042.371-97,0800 529 3263,2022-11-18,Engenharia
+Maria Eduarda Rezende,enzo-gabrieldas-neves@da.com,387.492.016-03,+55 21 1768 4165,2022-07-13,Artes
+Sra. Manuela Cavalcanti,souzasofia@ig.com.br,927.438.561-73,+55 51 0366 3659,2023-06-16,Medicina
+Sr. Paulo Porto,peixotolorena@martins.br,890.621.537-12,+55 21 3748 2809,2023-03-24,Medicina
+Mariane Mendes,bda-conceicao@uol.com.br,602.971.354-06,+55 81 6901 9052,2023-02-04,Engenharia
+Cecília Nunes,epires@porto.com,951.438.267-64,+55 84 2393 0877,2023-11-16,Medicina
+Dr. João Vitor Gonçalves,epeixoto@gmail.com,629.051.438-51,(041) 9265 9605,2023-06-07,Artes
+Dr. Samuel Caldeira,joao-felipe35@pinto.com,948.521.073-60,84 9798-0448,2022-12-10,Ciência da Computação
+Joana Rezende,souzavitor-gabriel@ig.com.br,459.718.603-48,+55 51 7360 6743,2023-10-07,Medicina
+Heitor Novaes,novaesenzo@hotmail.com,430.529.618-70,+55 11 8552-0361,2023-04-13,Ciência da Computação
+Lara Nascimento,ceciliacarvalho@gomes.com,467.520.398-10,41 8248-3794,2023-01-26,Artes
+Sra. Agatha Correia,dporto@novaes.com,935.216.408-33,41 6587-5007,2023-06-23,Engenharia
+Luiz Fernando Mendes,da-rosajoao@rezende.br,271.836.945-00,21 7365 1232,2023-11-26,Direito
+Vitor Hugo Peixoto,rafaela81@da.net,965.132.807-02,+55 (071) 7588-0078,2024-01-28,Medicina
+Yuri Fernandes,tnogueira@hotmail.com,261.458.790-76,(021) 2974-8432,2023-03-24,Direito
+Marina da Mota,levi90@farias.com,854.217.903-04,0800-567-6406,2023-03-03,Artes
+Sr. Erick da Costa,andre15@yahoo.com.br,759.280.314-32,+55 (011) 3089-6789,2022-10-09,Medicina
+Pietro Ferreira,amandanascimento@lima.com,619.735.204-43,(011) 7060 1886,2022-06-15,Ciência da Computação
+Alícia Martins,cdias@ig.com.br,074.152.863-08,+55 21 0921 0911,2023-03-15,Psicologia
+Luigi da Rocha,duarteisabelly@yahoo.com.br,408.523.197-97,+55 11 0004-9756,2023-08-08,Direito
+Enzo Fogaça,spinto@farias.com,645.807.239-29,(011) 9739-2847,2022-08-05,Medicina
+Joaquim Jesus,sdias@bol.com.br,154.836.279-46,(011) 9180-9002,2022-05-12,Direito
+Sr. Breno Azevedo,antonio96@bol.com.br,948.730.516-57,(011) 5560 3909,2023-07-25,Medicina
+Lavínia Freitas,enzovieira@bol.com.br,718.902.654-11,61 9845-0238,2022-03-31,Engenharia
+Raul Campos,eloah14@hotmail.com,632.159.470-99,61 0244-6113,2023-11-11,Ciência da Computação
+Ana Júlia Azevedo,ferreirajoao-gabriel@ig.com.br,980.276.413-22,+55 11 6735-3205,2023-05-20,Direito
+Maria Sophia Araújo,rodriguespietro@aragao.br,179.532.864-91,+55 (051) 9728-7289,2022-03-28,Psicologia
+Sabrina Gonçalves,ana-laura79@bol.com.br,782.039.615-68,+55 11 4833 2087,2022-10-01,Psicologia
+Yasmin Martins,ana-luizamelo@cardoso.br,319.275.460-52,+55 (081) 5067-3848,2022-08-14,Artes
+Francisco Vieira,fernandesantonio@bol.com.br,893.652.071-77,+55 41 6128 8689,2023-11-25,Medicina
+Ana Vitória Rocha,da-costarodrigo@barbosa.br,824.501.367-62,(011) 4827 9632,2023-07-07,Direito
+Sr. Pedro Miguel Rezende,paulo29@das.br,396.820.547-29,+55 (011) 5577-7369,2023-10-28,Artes
+Srta. Emanuelly Mendes,thiago15@bol.com.br,968.317.452-37,0800-251-7552,2022-03-24,Direito
+Rafaela Rezende,diogo37@goncalves.com,285.743.019-14,+55 (011) 2816 3022,2023-09-19,Medicina
+João Felipe Pires,luiz-felipe52@moreira.net,214.569.307-61,71 2282 9829,2023-01-09,Psicologia
+Juliana Costela,lorenzo85@ferreira.com,691.320.457-43,(084) 6333-6975,2023-11-03,Engenharia
+Sofia Rocha,erezende@almeida.com,325.618.097-30,71 3364-1961,2022-09-05,Psicologia
+Ana Luiza Campos,fdas-neves@sales.br,613.492.758-91,(071) 4117 3398,2023-04-29,Artes
+Noah Gomes,vda-costa@alves.br,256.039.478-29,+55 (051) 3859 5177,2022-10-18,Ciência da Computação
+Maysa Teixeira,henrique63@ramos.net,236.845.079-38,+55 31 8051-4565,2022-03-27,Engenharia
+Alexandre da Cunha,nathannogueira@hotmail.com,904.368.572-00,+55 (061) 6041 8127,2023-12-14,Artes
+Pedro Lucas Monteiro,nascimentovitor@yahoo.com.br,149.285.063-24,(051) 5055-9549,2022-10-24,Medicina
+Arthur Campos,eduardocorreia@uol.com.br,013.972.684-50,0500-588-0327,2023-01-21,Engenharia
+Lavínia Cardoso,portosophie@caldeira.com,450.162.738-71,+55 (084) 5722-9434,2023-12-31,Artes
+Alice Martins,maria-luizaazevedo@carvalho.br,873.419.025-23,0800 620 1067,2023-05-05,Medicina
+João Vitor Dias,poliveira@bol.com.br,670.145.839-48,84 6884-5212,2024-01-16,Psicologia
+Maria Fernanda Dias,barbarasouza@goncalves.com,948.237.056-29,(061) 8376 8212,2023-01-27,Ciência da Computação
+Mariana Mendes,llopes@uol.com.br,725.830.169-03,+55 11 7360-0388,2023-07-12,Medicina
+Pietro Ramos,enascimento@fernandes.br,762.103.859-40,(041) 8309-0459,2022-12-27,Direito
+Matheus Cardoso,thales32@bol.com.br,580.167.239-77,+55 21 3625-4411,2023-03-06,Medicina
+Cauã Santos,carolinacarvalho@ig.com.br,501.764.982-49,(061) 7783-3393,2023-01-20,Medicina
+Alícia Mendes,goncalvesemanuel@yahoo.com.br,358.472.916-55,71 1087 8716,2022-12-25,Ciência da Computação
+Maria Alice da Rocha,piresbeatriz@gmail.com,072.953.461-80,+55 61 7704-5418,2022-08-01,Direito
+Laís Costela,silvajulia@uol.com.br,376.254.890-00,+55 (041) 0965-2775,2024-01-27,Artes
+Cauã Rezende,pedro-miguelnascimento@ramos.com,694.127.035-70,0900 298 3074,2022-08-29,Artes
+Marcelo Mendes,fogacanicole@aragao.br,290.814.753-04,+55 51 0391 5724,2023-01-29,Medicina
+Amanda Castro,stephanybarbosa@araujo.org,521.673.409-07,+55 31 9522 3617,2024-02-08,Direito
+Fernando Araújo,carlos-eduardocampos@ig.com.br,913.087.254-50,+55 (071) 0837 6662,2023-09-25,Direito
+Davi Luiz Sales,amartins@bol.com.br,405.196.832-42,(081) 1482 7594,2022-09-17,Ciência da Computação
+Rodrigo Moura,arthur44@correia.com,576.940.381-01,61 6658-6412,2023-08-13,Psicologia
+Thales Correia,carlos-eduardo86@duarte.net,317.802.459-04,51 8641 2600,2022-07-28,Artes
+Isabel Rodrigues,sophia68@viana.org,360.718.529-86,(031) 0874-9012,2023-01-08,Ciência da Computação
+Júlia Fogaça,ana-beatrizda-mota@dias.com,845.602.197-02,(061) 9065 1586,2022-08-19,Engenharia
+Sophie Campos,hda-mota@uol.com.br,398.475.610-01,0800-167-2760,2022-12-27,Artes
+Srta. Laura Duarte,salesenzo-gabriel@cunha.br,041.763.982-13,0500 631 6262,2022-05-18,Ciência da Computação
+Laís Correia,nathan36@ig.com.br,809.326.541-42,+55 21 5375 4312,2022-06-24,Artes
+Helena Farias,rafaelalmeida@gmail.com,462.709.835-92,0900 631 4729,2022-04-26,Psicologia
+Stephany Rodrigues,ramosmilena@monteiro.com,276.351.048-53,+55 (051) 7236-1227,2022-06-10,Engenharia
+Dr. Diego da Mota,enricosilva@gmail.com,503.128.769-12,(031) 5697 8284,2022-04-24,Psicologia
+Dr. João Felipe da Conceição,costaclara@viana.com,762.590.138-68,+55 31 4490 0794,2023-05-12,Engenharia
+Lara Lopes,helena44@peixoto.com,692.507.834-00,81 0263 3962,2023-11-07,Medicina
+Emanuel Correia,goncalvesgustavo-henrique@da.br,615.420.387-07,(084) 8953-5767,2023-08-07,Ciência da Computação
+Antônio Peixoto,ana-sophia16@cavalcanti.br,341.789.206-69,0800 853 4817,2023-02-09,Engenharia
+Vitor Gabriel Aragão,peixotomurilo@castro.com,640.912.873-87,51 9589 1412,2024-02-25,Psicologia
+Sra. Alana Monteiro,sophiealmeida@ferreira.net,162.803.974-40,+55 81 7919 7176,2023-03-07,Artes
+Maria Sales,wrodrigues@bol.com.br,258.379.041-23,+55 84 2261-7725,2023-03-11,Engenharia
+Vicente Barros,gda-mota@hotmail.com,638.490.175-75,21 0232 2975,2023-12-15,Ciência da Computação
+Mariana Pires,maria-vitoria47@hotmail.com,487.163.920-78,(011) 0169-3911,2023-09-26,Engenharia
+Alexandre Duarte,duartepietra@da.br,127.605.384-35,(061) 8925-2918,2023-10-10,Direito
+Maria Fernanda da Rosa,luiz-fernando82@nunes.com,052.364.719-07,+55 (021) 9527 4726,2024-02-05,Artes
+Dra. Rebeca Farias,da-conceicaojuan@teixeira.br,265.371.498-19,+55 (084) 3066 9715,2023-01-05,Ciência da Computação
+Breno Silveira,castroryan@freitas.com,237.564.801-35,+55 (051) 7342 6651,2024-03-05,Ciência da Computação
+Dr. João Gabriel Barros,mariana80@bol.com.br,291.475.068-49,(031) 7247-9472,2022-05-07,Medicina
+Letícia Sales,opereira@freitas.br,142.308.695-33,11 7601 3174,2023-09-02,Psicologia
+Dr. Arthur Ramos,davi16@yahoo.com.br,059.146.823-98,+55 21 2348 4526,2023-09-24,Medicina
+Pedro Fernandes,vitor71@duarte.br,190.264.573-16,(021) 8908-9687,2023-07-23,Ciência da Computação
+Cauê da Luz,da-rosasophia@bol.com.br,381.056.972-03,(071) 1223 4399,2022-08-27,Artes
+Srta. Isabella Nogueira,maria-clara06@moura.com,634.087.159-39,0500 609 5721,2023-03-29,Engenharia
+Yasmin Fernandes,da-luzemanuella@hotmail.com,029.715.348-04,+55 (011) 8354 4098,2023-03-19,Engenharia
+Gabriel Jesus,nicole99@porto.net,190.376.285-59,(081) 6283-9333,2023-12-16,Artes
+Dra. Maria Azevedo,rodriguesmelissa@rodrigues.org,946.571.320-16,31 7321 3262,2024-02-08,Ciência da Computação
+Sr. Antônio Caldeira,fogacagustavo@moreira.com,869.302.714-03,+55 (031) 7296-0968,2023-11-28,Engenharia
+Cauê Souza,silvaana-laura@sales.com,305.172.864-08,+55 11 1491 4549,2022-09-30,Engenharia
+Ana Clara Peixoto,otavio92@pires.com,153.470.962-25,(031) 4484-7397,2023-11-19,Engenharia
+Samuel Araújo,antonioviana@da.br,691.273.540-16,(011) 1333 4608,2023-04-21,Psicologia
+Kevin da Cruz,cbarbosa@hotmail.com,610.285.394-60,71 0650 4963,2023-08-14,Psicologia
+Luiz Felipe Costela,dnunes@da.com,907.613.254-25,+55 21 6849 8948,2023-02-25,Direito
+Cecília Melo,carolinefreitas@da.net,395.760.421-43,+55 71 4135 5466,2023-12-30,Medicina
+Sofia Peixoto,mariane44@moraes.br,319.520.674-99,0300 340 8649,2023-09-28,Artes
+Sabrina Rodrigues,igorda-mota@oliveira.com,617.095.843-00,+55 81 6384-0981,2023-04-15,Artes
+João Vitor da Mata,fernandesjoao-vitor@hotmail.com,560.137.284-53,+55 (071) 8173 2389,2023-08-05,Artes
+Srta. Gabrielly Silva,maria-alice23@ig.com.br,709.568.412-01,+55 (021) 1200 7096,2024-01-29,Direito
+Sr. Luiz Gustavo da Rosa,benjamin83@hotmail.com,105.743.986-00,+55 11 2146-3191,2023-11-01,Psicologia
+Dr. Lucas Gabriel Duarte,emilly14@ig.com.br,348.265.097-74,(051) 6295-1086,2023-09-11,Ciência da Computação
+Larissa Cardoso,alanacavalcanti@ig.com.br,975.246.183-28,84 6852-8681,2024-02-21,Ciência da Computação
+João Pedro da Luz,vianasophia@barros.br,259.718.406-49,+55 (084) 3389-6050,2022-11-10,Direito
+Yago Nunes,thomas28@araujo.org,283.567.410-17,(011) 0096 5798,2022-07-03,Ciência da Computação
+Antônio Martins,silvaantonio@ferreira.com,823.917.564-37,+55 (071) 5758 6712,2023-01-11,Artes
+Vitor da Rosa,hcardoso@gmail.com,037.542.961-16,+55 (041) 7078-0689,2022-09-14,Medicina
+Valentina Correia,marcelarezende@goncalves.br,341.957.026-07,41 5079-2588,2023-12-30,Engenharia
+João Castro,hribeiro@uol.com.br,892.503.617-77,(051) 7410-1053,2023-01-27,Psicologia
+Brenda Ferreira,nsantos@pires.br,162.908.734-31,(084) 0131-9775,2022-04-14,Psicologia
+Olivia Castro,luiz-henriquenogueira@freitas.com,125.670.384-26,0500-963-3623,2022-04-02,Direito
+Bryan Moreira,maysa80@ig.com.br,907.428.613-50,(041) 1106-8099,2023-08-07,Psicologia
+Dr. Bernardo Moreira,bernardocaldeira@barbosa.net,253.810.974-41,(011) 5256-1070,2023-02-04,Artes
+Isadora Nunes,bryan57@yahoo.com.br,146.985.730-84,0900 307 8402,2023-11-22,Ciência da Computação
+Ana Júlia Pinto,costelaamanda@bol.com.br,375.842.690-10,(071) 0968-1583,2022-12-19,Artes
+Gabriel da Luz,alanadas-neves@uol.com.br,732.946.058-38,+55 61 9474-8941,2023-01-01,Direito
+Nina Ribeiro,fsouza@uol.com.br,580.624.931-05,+55 (081) 7145-3089,2023-05-09,Artes
+Lorena Alves,jda-paz@peixoto.br,586.142.903-06,(041) 1624-4599,2023-06-17,Ciência da Computação
+Isabelly Aragão,barrosvitor-gabriel@das.com,705.426.318-90,(041) 7122-6161,2022-12-19,Medicina
+Davi Lucas Campos,luiz-otavio10@fogaca.org,865.042.713-80,(011) 6344 1578,2023-01-09,Direito
+Catarina Ramos,santosisabelly@cunha.org,187.423.590-23,+55 (051) 6391 5806,2022-09-27,Medicina
+Maitê Martins,heitorsilveira@ferreira.net,168.095.723-68,0800-599-3100,2022-06-07,Engenharia
+Vitor Hugo Duarte,da-conceicaoclarice@ig.com.br,402.897.561-11,0300-489-0493,2022-05-28,Medicina
+Larissa Nunes,sfarias@duarte.net,439.250.176-07,(084) 6340 2484,2023-03-22,Engenharia
+Pedro Miguel Castro,pietracarvalho@gmail.com,912.560.473-25,+55 (081) 8460-5787,2022-11-06,Engenharia
+Calebe Pinto,kaique73@yahoo.com.br,910.283.647-50,0900 660 4205,2022-04-17,Medicina
+Mariane Cardoso,cmelo@teixeira.br,146.029.375-43,+55 84 6707 6770,2022-08-07,Direito
+Thales Barros,dcaldeira@cardoso.br,689.270.351-86,0500 984 5049,2023-04-06,Ciência da Computação
+Maitê Carvalho,gomescaio@gomes.br,153.672.890-02,(031) 8050-4674,2022-06-02,Artes
+Maria Alice Teixeira,mariane40@rodrigues.net,148.726.059-85,51 0663 1746,2022-05-25,Artes
+Ana Lívia Rocha,silvaerick@uol.com.br,685.407.213-17,+55 (041) 0041 7993,2023-09-27,Ciência da Computação
+Sr. Luiz Miguel Caldeira,vicenteda-cunha@uol.com.br,913.870.456-01,+55 (071) 7532-4613,2024-02-17,Engenharia
+Yago Cunha,brendacarvalho@ramos.com,028.359.641-42,(061) 3859-6576,2023-09-05,Engenharia
+Otávio da Cunha,rvieira@yahoo.com.br,596.134.280-89,+55 (051) 3114-0094,2022-09-28,Direito
+Isabella Gomes,costalivia@campos.br,173.650.498-39,(081) 6649-3728,2022-04-19,Psicologia
+Eduarda Teixeira,breno69@bol.com.br,394.716.580-39,(011) 7316 5504,2023-06-20,Medicina
+Diogo Rodrigues,ksilveira@yahoo.com.br,320.598.641-51,+55 71 2636-5311,2023-11-02,Engenharia
+Maria Clara Lopes,eduardada-cruz@gmail.com,760.329.815-68,+55 (051) 0337 5512,2023-10-31,Artes
+Henrique Azevedo,qmonteiro@hotmail.com,134.297.658-46,+55 (031) 9565-4422,2023-03-13,Direito
+Milena da Luz,iporto@yahoo.com.br,758.620.349-00,+55 (011) 5658-4639,2022-12-21,Medicina
+Emanuella Lopes,fteixeira@souza.br,813.540.627-44,(051) 8931-1645,2023-03-13,Direito
+Pedro Ferreira,matheus32@gmail.com,864.091.253-05,+55 (061) 0665 6511,2024-01-25,Medicina
+Isabella Teixeira,julialopes@hotmail.com,720.481.569-67,+55 (061) 2151-4423,2022-06-25,Medicina
+Henrique Mendes,opires@fernandes.br,794.608.531-10,(051) 9024-9055,2023-04-25,Ciência da Computação
+Luiz Henrique Ramos,erick26@castro.net,874.256.391-73,0900 369 4711,2024-02-20,Engenharia
+Diego Silva,maria-cecilia69@bol.com.br,832.791.406-50,84 6630 3890,2022-09-12,Direito
+Enzo Gabriel Carvalho,kamilly54@da.com,250.487.316-62,+55 21 4595-5656,2023-12-18,Direito
+Sofia Freitas,das-neveskevin@yahoo.com.br,293.054.876-29,(081) 5613-3810,2022-12-19,Ciência da Computação
+Milena Barbosa,alexandrenovaes@freitas.br,162.549.783-00,+55 81 7487-9331,2023-09-16,Artes
+Luana Pires,enzorezende@rodrigues.com,876.250.319-77,+55 (021) 3420 5182,2024-03-02,Artes
+Carlos Eduardo Pinto,ceciliada-luz@almeida.com,256.091.478-67,0500 110 5801,2023-03-30,Engenharia
+Thomas Cardoso,caue53@da.br,732.061.598-30,+55 (031) 5864-6359,2022-03-31,Engenharia
+Rafaela Sales,eduardoda-conceicao@bol.com.br,729.860.415-58,+55 21 7391 3162,2023-06-09,Psicologia
+Alícia Barros,nascimentoana-julia@viana.br,764.952.810-30,(031) 4322-0823,2023-03-18,Ciência da Computação
+Isabelly Jesus,heitorfarias@dias.com,543.089.172-04,+55 21 8321-3018,2024-01-10,Artes
+Letícia da Costa,martinsdaniela@jesus.net,048.157.963-00,81 9868-3099,2023-02-05,Medicina
+Júlia das Neves,hnunes@gmail.com,409.628.513-70,+55 (011) 4647-2963,2023-12-06,Direito
+Luiz Miguel Souza,luiz-otavio38@correia.com,263.745.801-17,+55 (081) 5265 7857,2022-04-03,Engenharia
+Augusto Nascimento,ecorreia@cardoso.br,863.905.421-51,0500-013-2535,2022-06-13,Direito
+Dra. Maria das Neves,da-luzenzo@pereira.com,645.038.729-74,(041) 5675 6981,2022-10-22,Direito
+Srta. Sofia Costela,bernardorodrigues@gmail.com,306.527.841-35,0500-135-5753,2023-10-14,Psicologia
+Gabriela da Cunha,rodrigueslaura@bol.com.br,924.301.568-06,41 9483 6329,2022-04-11,Artes
+Isis Nunes,costamilena@gmail.com,420.681.973-40,21 0581 6294,2022-04-15,Engenharia
+Luiz Gustavo da Mota,antonio04@uol.com.br,940.283.716-78,(084) 3085 7782,2022-05-10,Direito
+Laura da Rocha,alanaduarte@uol.com.br,501.826.379-21,(031) 2674 2190,2022-05-04,Engenharia
+Igor Araújo,moraesbruna@uol.com.br,372.495.680-00,+55 71 5270 0863,2023-05-13,Medicina
+Lucas Barros,eduardocostela@da.br,024.138.596-24,0300-485-9817,2022-11-18,Psicologia
+Sr. Gustavo Almeida,livia16@cardoso.net,034.672.851-71,(061) 8737-3574,2023-05-28,Medicina
+João Moraes,mouralara@uol.com.br,827.139.645-55,(041) 1306 6078,2024-01-18,Engenharia
+Bruna Cardoso,davi-luccada-mata@carvalho.br,924.517.038-14,81 0617 7821,2023-03-09,Engenharia
+Ian Cardoso,novaeskevin@da.org,950.743.862-92,+55 (051) 8771 4168,2023-09-04,Artes
+João Pedro Ramos,rafaelada-luz@yahoo.com.br,372.198.605-95,+55 (071) 1033 3657,2022-05-04,Direito
+Emilly Viana,moreirajoao-pedro@hotmail.com,043.527.186-53,(021) 3595-1644,2023-10-22,Direito
+João Gabriel da Mata,souzathomas@lopes.br,028.971.456-76,+55 41 0215-5448,2022-09-01,Medicina
+Theo da Luz,cda-cruz@lopes.br,634.219.785-73,(031) 7725 0966,2023-01-31,Psicologia
+Gustavo Fogaça,da-pazana-luiza@das.br,578.416.290-01,+55 (061) 5043 4591,2022-06-07,Ciência da Computação
+Henrique Barros,pda-rosa@yahoo.com.br,908.726.134-96,81 6870 2285,2023-09-01,Direito
+Lavínia Azevedo,carolinaribeiro@fernandes.org,673.019.584-39,+55 (084) 0922 4216,2023-06-15,Artes
+Dr. Luiz Felipe Caldeira,duartegabrielly@barros.net,421.753.609-70,+55 (051) 7010 4342,2022-09-21,Medicina
+Sr. Guilherme das Neves,castromiguel@bol.com.br,157.302.849-50,21 1692 6442,2024-02-02,Medicina
+Bryan Cardoso,bernardomoura@rodrigues.br,068.593.472-10,81 1858 4698,2022-08-23,Ciência da Computação
+Dr. Enzo Rodrigues,bmoraes@fernandes.org,275.936.081-40,(071) 1697 2709,2022-12-08,Artes
+Enrico Silveira,jcardoso@ribeiro.br,210.937.458-60,(061) 0665 7948,2023-03-13,Psicologia
+Julia da Luz,ycunha@cunha.net,196.732.850-12,+55 (041) 3278-1262,2022-04-16,Artes
+Ana Carolina da Conceição,matheusviana@gmail.com,240.168.395-05,81 9625 2917,2022-07-03,Psicologia
+Augusto Farias,eloahcampos@rodrigues.com,376.581.904-20,84 7315 0429,2022-06-06,Artes
+Dr. Luiz Henrique Peixoto,bryanda-conceicao@yahoo.com.br,032.716.984-22,21 1435 4112,2022-12-03,Artes
+Marcela Souza,marcela17@monteiro.com,364.085.129-33,(081) 8734 3007,2023-05-28,Engenharia
+Fernando Rocha,noliveira@hotmail.com,948.150.263-51,+55 71 5541 9206,2022-10-30,Medicina
+Mariane da Paz,juanrocha@bol.com.br,275.046.391-25,(071) 2985-8918,2022-10-06,Artes
+Thiago Ramos,joao15@bol.com.br,216.579.083-21,+55 (084) 6612-0832,2022-06-26,Ciência da Computação
+Carlos Eduardo Pires,da-pazrafael@hotmail.com,814.652.039-15,0900 606 7900,2023-06-28,Artes
+Maria da Costa,joaquimda-luz@da.br,428.736.019-22,+55 (041) 5890-5644,2022-04-30,Direito
+Fernanda da Rocha,yviana@uol.com.br,621.958.704-94,(011) 0488 2255,2023-10-27,Medicina
+Sra. Olivia Cunha,azevedodavi-lucca@yahoo.com.br,819.427.563-64,+55 81 0960 5507,2023-12-27,Direito
+Sr. Bryan Rocha,dcostela@ig.com.br,156.098.243-89,+55 (031) 6610 0920,2023-12-21,Medicina
+João Pedro da Cruz,da-costamaria-alice@viana.net,463.289.175-46,+55 71 1156 8245,2023-05-15,Direito
+Emanuel Campos,da-rochadanilo@gomes.com,981.407.352-05,0500 513 6069,2023-04-04,Artes
+Ana Júlia Gomes,arthurcardoso@gmail.com,260.359.471-07,+55 61 6649 9953,2023-08-01,Artes
+Igor Pereira,zdas-neves@hotmail.com,391.246.058-24,+55 (021) 0573-9901,2023-07-19,Engenharia
+Sr. Yuri Nascimento,stephanyaragao@gmail.com,329.018.657-12,(021) 4353-5949,2022-12-05,Ciência da Computação
+Benício da Mota,vitorfogaca@uol.com.br,485.973.106-93,61 9707 4476,2022-08-25,Direito
+Stephany Fernandes,pietrorodrigues@lopes.org,139.465.780-39,71 8397-6314,2023-07-06,Psicologia
+Bruna Sales,danielteixeira@yahoo.com.br,409.865.723-65,+55 81 0574-7261,2023-04-11,Engenharia
+Antônio Moura,camila81@barbosa.net,163.847.592-09,41 0754-2668,2024-02-11,Direito
+João Guilherme da Costa,nduarte@carvalho.com,547.890.631-00,(021) 0895 6298,2023-09-10,Direito
+Nicole da Costa,ufogaca@ig.com.br,572.496.038-92,(081) 1637 3030,2022-08-10,Engenharia
+Laís da Costa,leonardo76@nascimento.net,602.759.814-01,(021) 9565-5725,2022-05-30,Artes
+Davi Luiz Barbosa,maysa31@gmail.com,701.836.594-57,+55 (011) 9605-6162,2023-03-04,Direito
+Diogo Mendes,qcosta@goncalves.br,382.694.051-24,+55 (084) 8812 1763,2022-10-04,Artes
+Ana Luiza Martins,uda-mota@nunes.org,491.305.782-05,11 3300-4496,2022-04-02,Engenharia
+Bruna Souza,carlos-eduardo73@uol.com.br,618.059.342-60,(041) 6923-7610,2022-10-29,Artes
+Murilo Castro,julia53@porto.com,438.926.175-46,61 0518 4021,2022-10-25,Medicina
+Bruno Gonçalves,moreirapedro@gmail.com,156.490.827-58,+55 (021) 5317 9698,2022-11-20,Psicologia
+Dr. Augusto Costa,rodriguesdiego@cunha.org,085.942.367-00,(011) 0766 8903,2022-11-11,Direito
+Yago Novaes,isadoracavalcanti@da.com,574.892.603-29,71 9385-4670,2022-06-14,Ciência da Computação
+Gabriel Aragão,ypinto@yahoo.com.br,195.037.468-84,+55 (011) 4817-0784,2022-11-25,Psicologia
+Bruna Gonçalves,bruno85@hotmail.com,453.796.108-20,(021) 0169 5317,2023-02-02,Artes
+Augusto Oliveira,lsilva@nogueira.com,512.867.490-85,(021) 2585 1629,2022-09-27,Direito
+Ana Julia da Cruz,jcardoso@sales.com,640.153.978-00,0800-252-9234,2023-10-18,Artes
+João Gabriel das Neves,ecostela@fogaca.com,529.607.813-68,71 6907-9316,2022-08-06,Medicina
+Natália Dias,nicolecarvalho@bol.com.br,712.486.350-35,+55 (071) 3808-4766,2023-05-06,Engenharia
+Caio Ribeiro,mouraana-julia@dias.com,681.035.279-12,+55 81 9440 5935,2022-12-28,Direito
+Maysa Correia,bianca47@nascimento.com,529.734.086-10,+55 21 9967 3628,2023-03-25,Medicina
+Alícia Fogaça,renan61@ig.com.br,590.417.236-25,+55 71 7218 7925,2023-05-29,Medicina
+Nathan Viana,muriloda-mata@yahoo.com.br,123.948.570-05,(071) 3213-4120,2022-05-17,Direito
+Raul da Rocha,henrique96@bol.com.br,297.541.836-19,(021) 8343-4348,2024-02-29,Artes
+Daniel Rocha,carolina72@uol.com.br,307.254.186-80,(011) 5556 6223,2024-02-06,Ciência da Computação
+Maria Vitória da Cruz,eduarda45@novaes.com,582.409.673-29,+55 84 3193-1225,2023-11-25,Medicina
+Dr. Augusto Vieira,carolinada-rosa@costela.org,026.813.745-53,+55 31 8664 7812,2024-02-07,Psicologia
+Ana Lívia Fernandes,eloahnascimento@hotmail.com,281.536.097-77,+55 (071) 8664 1753,2024-01-11,Medicina
+Ana Beatriz Gonçalves,novaesmaria-cecilia@silva.com,751.382.064-35,+55 (061) 0340 1897,2023-09-27,Ciência da Computação
+Bernardo da Rosa,pedro-lucas49@hotmail.com,067.841.295-20,+55 (021) 4838-8240,2022-07-17,Artes
+Guilherme Dias,isaac61@santos.com,849.627.130-78,51 3551 0090,2023-01-31,Artes
+Sr. Davi Costa,stephany69@da.br,231.768.059-77,51 1646 4396,2022-07-02,Psicologia
+Maria Cecília Nunes,erezende@campos.com,042.158.369-05,84 6975 4982,2023-04-24,Medicina
+Srta. Laura Peixoto,ana-sophiasantos@nascimento.br,674.189.305-93,+55 21 5709 8300,2023-08-20,Artes
+Dra. Bárbara Mendes,edias@da.br,172.043.958-32,84 6584 2017,2023-05-17,Ciência da Computação
+Laura Gomes,gomeslevi@hotmail.com,570.289.364-65,+55 84 1597 1042,2023-01-28,Direito
+João Lucas Gomes,bfarias@rocha.net,543.698.017-10,31 3942 6169,2024-01-07,Engenharia
+Raul Cardoso,maitenovaes@ig.com.br,427.851.036-53,+55 51 8433 7342,2022-03-31,Engenharia
+Stella Oliveira,anthony66@bol.com.br,624.803.715-90,(041) 5899-5675,2023-03-02,Engenharia
+Brenda Cardoso,da-cruzheloisa@gmail.com,049.783.152-04,0900 950 9266,2023-10-24,Medicina
+Davi Luiz da Luz,da-cruzlara@nogueira.org,391.857.640-00,(031) 7762-9571,2023-08-23,Psicologia
+Bernardo Ramos,livia39@gmail.com,072.564.981-01,+55 71 7662-8527,2023-10-14,Artes
+Dr. Pedro da Cunha,nunesdanilo@castro.br,748.950.326-47,+55 31 1932 5939,2022-11-01,Direito
+Milena Carvalho,goncalvesbeatriz@goncalves.br,510.843.972-50,+55 71 8622-7756,2022-05-01,Ciência da Computação
+Levi da Costa,francisco82@bol.com.br,237.460.581-71,+55 71 2646-3483,2022-05-26,Direito
+Srta. Stephany Pinto,guilhermefernandes@gmail.com,956.374.012-25,(071) 4139-8547,2022-07-07,Ciência da Computação
+Sra. Isis das Neves,ana-luizacarvalho@yahoo.com.br,123.048.675-53,+55 (084) 0682-2108,2023-10-08,Medicina
+Emanuel da Luz,pereiraolivia@da.br,584.936.271-19,+55 71 9573-4429,2022-09-09,Engenharia
+Enzo Novaes,leonardoaragao@hotmail.com,210.497.835-14,31 3735-5429,2023-02-12,Medicina
+Rodrigo Lima,mlima@ig.com.br,475.823.109-50,+55 (011) 6146-3004,2023-07-21,Psicologia
+Felipe Gomes,sophia17@ig.com.br,928.640.571-58,81 8720 1128,2023-01-20,Psicologia
+Arthur Barros,martinsmurilo@gmail.com,298.365.470-29,+55 (011) 7657-3839,2023-11-05,Ciência da Computação
+Maria Vitória Araújo,inunes@nogueira.br,021.469.735-52,+55 (061) 1615 1255,2023-07-09,Artes
+Vitor Hugo Vieira,kgomes@uol.com.br,831.746.250-17,61 9028-5247,2023-08-23,Artes
+João Azevedo,ycosta@hotmail.com,246.805.379-65,+55 (011) 9814-6214,2022-12-30,Ciência da Computação
+Dra. Rafaela Ferreira,vicente53@gmail.com,301.682.459-06,+55 51 5401 6742,2024-02-23,Psicologia
+Heitor Farias,anthony22@uol.com.br,091.647.283-31,(061) 3938-2836,2024-01-31,Psicologia
+Pietra Cardoso,beatriz56@campos.com,450.726.983-00,61 1046-4946,2023-09-11,Psicologia
+Sra. Sabrina Pires,renanoliveira@da.net,306.971.248-78,71 4264 5920,2023-12-28,Medicina
+Sra. Larissa Rocha,gabrielly07@rezende.net,260.754.398-38,+55 31 4302 9605,2022-12-05,Psicologia
+Dra. Marcela da Paz,beniciorezende@barbosa.net,619.547.083-00,+55 61 4414 1506,2023-09-23,Direito
+Evelyn Cardoso,vitor-gabrielfarias@da.com,738.052.461-53,(081) 6281 9844,2023-04-19,Engenharia
+Emanuelly Almeida,rsales@hotmail.com,257.089.163-03,+55 (031) 3936-7477,2022-09-15,Psicologia
+Maysa Gonçalves,jda-rosa@alves.com,382.175.469-91,(084) 0529-0424,2023-04-04,Ciência da Computação
+Raquel Barros,fernanda33@da.com,423.817.609-03,+55 (041) 0698-7045,2023-05-03,Engenharia
+Miguel Silva,thomasalmeida@mendes.br,713.985.240-50,+55 51 4882 1013,2023-05-10,Medicina
+Melissa Gonçalves,moraesotavio@ig.com.br,360.178.295-21,11 0231 4761,2022-05-28,Ciência da Computação
+Dr. Davi Luiz Almeida,pietra30@monteiro.com,450.392.768-00,+55 (041) 4770-0329,2022-07-20,Engenharia
+Letícia Dias,yasmin71@uol.com.br,619.437.280-03,81 2286 1886,2023-10-25,Ciência da Computação
+Rodrigo das Neves,heitorcaldeira@ferreira.com,053.124.678-71,0800 414 8036,2023-12-05,Medicina
+Isadora Cavalcanti,fernandoalves@uol.com.br,920.467.815-11,+55 51 5873 6878,2023-03-23,Direito
+Larissa das Neves,xcardoso@da.com,742.310.968-13,+55 71 4110 3033,2023-08-17,Medicina
+Dr. João Miguel Silveira,vcunha@hotmail.com,187.356.294-28,11 4027 9691,2022-08-05,Medicina
+Ana Farias,joao-felipejesus@ig.com.br,436.790.528-47,(061) 1821 4967,2022-09-04,Ciência da Computação
+João Lucas Novaes,benicioribeiro@mendes.com,546.321.907-99,+55 31 6041 4848,2022-04-28,Artes
+Benjamin Gonçalves,mendesbryan@uol.com.br,801.942.573-04,+55 41 1464 0580,2024-03-05,Psicologia
+Thomas Duarte,luiz-fernandonovaes@hotmail.com,124.896.305-98,(041) 4737-7511,2022-06-21,Psicologia
+Isabella Souza,raul49@caldeira.br,405.327.689-65,+55 31 7501-6140,2023-05-13,Direito
+Joaquim da Conceição,melissa34@hotmail.com,792.635.180-68,51 2153 9758,2023-01-05,Direito
+Luiz Gustavo Novaes,ylopes@uol.com.br,286.315.497-46,+55 21 6241-6141,2023-08-05,Psicologia
+Luna Porto,samuelpires@araujo.com,698.120.345-60,11 1489 9861,2023-09-09,Artes
+Júlia Rezende,davirodrigues@yahoo.com.br,376.148.952-82,(041) 2787-2796,2023-01-07,Psicologia
+Sra. Luiza Nogueira,lda-luz@uol.com.br,419.830.765-20,(084) 3789-7187,2024-02-25,Artes
+Juliana Moura,gda-mata@goncalves.com,736.850.249-65,+55 (041) 7756-9691,2023-04-05,Direito
+Danilo Cavalcanti,yfernandes@yahoo.com.br,875.094.123-23,41 4287-1105,2023-01-25,Engenharia
+Isabella Peixoto,thalesgoncalves@yahoo.com.br,830.917.654-66,0300-372-9318,2022-04-20,Ciência da Computação
+Pietro Souza,maria-ceciliadas-neves@da.br,967.850.241-02,+55 (031) 5080 9897,2024-03-12,Direito
+Paulo Dias,vsilveira@ig.com.br,510.736.284-26,0300 219 4285,2022-10-25,Direito
+Sabrina Santos,barbosaana-julia@ig.com.br,829.451.607-49,11 1006-7237,2023-04-13,Medicina
+Sra. Isabel Pires,guilhermenascimento@bol.com.br,274.639.105-80,(021) 5251-1139,2024-01-30,Medicina
+Luna Vieira,yasmin33@uol.com.br,367.182.095-03,51 4449 7925,2023-10-19,Medicina
+Davi Lucca Pinto,vda-paz@costa.net,069.537.428-10,+55 (084) 7291 7680,2022-08-13,Ciência da Computação
+Thales Azevedo,lorenzo45@gmail.com,360.127.459-07,+55 21 7444-8569,2024-03-10,Medicina
+Heloísa Gomes,jribeiro@hotmail.com,814.923.056-42,(011) 2429-9793,2024-03-13,Artes
+Sr. Marcos Vinicius Peixoto,da-rosagabriela@bol.com.br,140.765.938-39,(051) 7215 4395,2023-10-09,Psicologia
+Paulo Cardoso,alicia49@yahoo.com.br,807.162.943-03,71 5057 5550,2022-05-04,Engenharia
+Arthur da Mata,dlima@santos.com,604.187.523-62,21 6484-3425,2024-03-17,Direito
+Maitê da Rocha,wsilva@teixeira.com,935.168.240-42,+55 (031) 5794 0821,2022-08-08,Artes
+Maysa Pires,ada-luz@yahoo.com.br,605.217.483-80,0900-959-9459,2023-08-21,Engenharia
+Davi Luiz Gomes,alexandrecardoso@da.net,601.942.357-34,0800 939 3211,2024-01-13,Artes
+Ana Carolina da Conceição,silveiraisadora@hotmail.com,891.705.264-94,+55 61 8626 7342,2022-04-29,Artes
+Lívia Campos,eda-paz@bol.com.br,726.349.501-52,+55 (031) 9127 6654,2023-01-04,Direito
+Vitória da Mota,julia79@yahoo.com.br,915.763.084-48,51 9953 5548,2023-02-09,Psicologia
+Isis Mendes,ribeirosarah@hotmail.com,435.017.689-66,(081) 6567 9224,2023-11-14,Medicina
+João Souza,xmendes@das.com,420.963.578-29,+55 51 8516 5816,2023-11-04,Ciência da Computação
+Maria Eduarda Melo,almeidacalebe@pereira.com,125.049.638-15,11 1189-0345,2022-10-02,Psicologia
+Augusto Freitas,teixeiranicole@campos.net,380.419.275-05,(051) 7036 7513,2024-01-27,Ciência da Computação
+Dra. Ana Cardoso,beniciosilva@yahoo.com.br,340.918.567-48,+55 (051) 7606-9026,2023-05-08,Direito
+Luana Gonçalves,lda-mota@cunha.br,102.795.486-30,81 8955 1473,2022-07-10,Direito
+Thiago da Luz,joao-lucas01@da.com,413.725.809-05,+55 (031) 2244-7733,2023-07-01,Direito
+Bianca Alves,caua79@da.br,618.793.254-46,(021) 3599-0516,2023-12-09,Engenharia
+Sra. Maria Santos,da-luzvitor-gabriel@das.com,168.794.352-46,+55 11 9289-6338,2023-09-14,Ciência da Computação
+Bruna da Mota,leandromartins@yahoo.com.br,928.574.630-65,+55 51 1717 5820,2023-03-17,Psicologia
+Pedro Henrique Peixoto,diegofreitas@bol.com.br,150.837.624-71,0500-412-9886,2022-10-31,Psicologia
+Pedro Fogaça,fariasfernando@da.org,601.549.782-30,(031) 9940 5243,2024-03-17,Artes
+Calebe Moura,dda-mota@aragao.com,059.816.724-20,(071) 5696-3089,2023-07-27,Artes
+Lorenzo Porto,ymoreira@ig.com.br,175.328.094-04,0900 463 5079,2023-04-20,Artes
